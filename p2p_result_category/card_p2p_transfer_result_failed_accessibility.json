@@ -1,0 +1,17 @@
+{
+    "card": {
+        "type": "p2p_transfer_result",
+        "title": "Перевод не выполнен",
+        "addressee": "Илья Богданович",
+        "transfer_amount": "1010 \u20BD",
+        "style": "failure",
+        "accessibility": "A11y: перевод Илье Богдановичу не выполнен",
+        "action_button": {
+            "text": "Позвонить в банк",
+            "accessibility": "A11y: позвонить в банк для получения подробностей",
+            "action": {
+                "deep_link": "tel:+78001234567"
+            }
+        }
+    }
+}

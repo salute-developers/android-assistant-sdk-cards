@@ -1,0 +1,18 @@
+{
+  "card": {
+    "type": "p2p_transfer_result",
+    "title": "Перевод выполнен",
+    "addressee": "Илья Богданович",
+    "transfer_amount": "1010 ₽",
+    "style": "success",
+    "action_button": {
+      "text": "Подробнее",
+      "action": {
+        "deep_link": "tel:+78001234567"
+      }
+    },
+    "action": {
+      "deep_link": "https://sberbank.ru"
+    }
+  }
+}

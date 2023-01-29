@@ -1,0 +1,24 @@
+{
+    "card": {
+        "type": "p2p_contact_selection",
+        "title": "Кому переводим?",
+        "contacts": [
+            {
+                "name": "Илья Богданович",
+                "phone": "+7 (912) 345-67-89",
+                "avatar_url": "https://sberbank.ru/contacts/1000.jpg",
+                "action": {
+                    "text": "Выбрать Илью Богдановича"
+                }
+            },
+            {
+                "name": "Илюха с работы",
+                "phone": "+7 (923) 456-78-90",
+                "avatar_url": "https://sberbank.ru/contacts/1001.jpg",
+                "action": {
+                    "text": "Выбрать Илюху Богдановича"
+                }
+            }
+        ]
+    }
+}

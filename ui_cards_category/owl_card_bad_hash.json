@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "image_cell_view",
+            "content": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
+              "hash": "28b48d8865e9d9338b481c81b40c6806",
+              "size": {
+                "width": "resizable",
+                "aspect_ratio": 1.45
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

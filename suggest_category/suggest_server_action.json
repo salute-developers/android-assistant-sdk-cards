@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Показываю саджест с server action"
+      }
+    }
+  ],
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "С именем сообщения",
+        "actions": [
+          {
+            "type": "server_action",
+            "message_name": "FAKE_MESSAGE_NAME",
+            "server_action": {
+              "fake_key": "fake_value"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Это сообщение которое только отображается в чате, и не отправляется на бекэнд",
+            "should_send_to_backend": false
+          }
+        ]
+      },
+      {
+        "title": "Без имени сообщения",
+        "action": {
+          "type": "server_action",
+          "message_name": "",
+          "server_action": {
+            "fake_key": "fake_value"
+          }
+        }
+      }
+    ]
+  }
+}

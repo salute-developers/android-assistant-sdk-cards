@@ -1,0 +1,10 @@
+{
+    "card": {
+        "type": "p2p_transfer_result",
+        "title": "Перевод отменен",
+        "addressee": "Илья Богданович",
+        "transfer_amount": "1010 \u20BD",
+        "style": "cancelled",
+        "accessibility": "A11y: перевод Илье Богдановочу был отменен"
+    }
+}

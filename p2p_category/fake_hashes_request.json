@@ -1,0 +1,10 @@
+{
+	"command": {
+		"type": "request_hashes",
+		"hashes": [
+			"3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
+			"a9ed11112ec83955c2ed3c6f97fc54a4477ca3ec3ccd33c017ae5318e63fe42d",
+			"dcde66d8b26375a3c367a7d2b8ffdfea661cd36fc4e95c1ff7f98678941fde31"
+		]
+	}
+}

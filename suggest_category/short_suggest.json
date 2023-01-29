@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Показываю короткий саджест"
+      }
+    }
+  ],
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "OK",
+        "action": {
+          "type": "text",
+          "text": "OK"
+        }
+      },
+      {
+        "title": "Отмена",
+        "action": {
+          "type": "text",
+          "text": "Отмена"
+        }
+      },
+      {
+        "title": "\uD83D\uDC4D",
+        "action": {
+          "type": "text",
+          "text": "\uD83D\uDC4D"
+        }
+      },
+      {
+        "title": "\uD83D\uDC4E",
+        "action": {
+          "type": "text",
+          "text": "\uD83D\uDC4E"
+        }
+      }
+    ]
+  }
+}
