@@ -1,0 +1,201 @@
+{
+  "card": {
+    "type": "grid_card",
+    "items": [
+      {
+        "type": "greeting_grid_item",
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "Погода",
+          "typeface": "caption",
+          "text_color": "secondary",
+          "max_lines": 2
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Когда закончится снег?",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "2x"
+          }
+        },
+        "paddings": {
+          "top": "8x",
+          "left": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "text": "Когда закончится снег?"
+          }
+        ]
+      },
+      {
+        "type": "greeting_grid_item",
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "Калькулятор",
+          "typeface": "caption",
+          "text_color": "secondary",
+          "max_lines": 2
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Чему равняется число Пи?",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "2x"
+          }
+        },
+        "paddings": {
+          "top": "8x",
+          "left": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "text": "Чему равняется число Пи?"
+          }
+        ]
+      },
+      {
+        "type": "greeting_grid_item",
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "Финансовые термины",
+          "typeface": "caption",
+          "text_color": "secondary",
+          "max_lines": 2
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Что такое фьючерс?",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "2x"
+          }
+        },
+        "paddings": {
+          "top": "8x",
+          "left": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "text": "Что такое фьючерс?"
+          }
+        ]
+      },
+      {
+        "type": "greeting_grid_item",
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "Вопросы о музыке",
+          "typeface": "caption",
+          "text_color": "secondary",
+          "max_lines": 2
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Кто такой Фредди Меркьюри?",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "2x"
+          }
+        },
+        "paddings": {
+          "top": "8x",
+          "left": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "text": "Кто такой Фредди Меркьюри?"
+          }
+        ]
+      },
+      {
+        "type": "greeting_grid_item",
+        "background_image": {
+          "type": "url",
+          "url": "https://res.online.sberbank.ru/VA/images/movies_icon_2x.png",
+          "hash": "dfb3e9be55b9cee5dcaae5df20336abe"
+        },
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "Вопросы о кино",
+          "typeface": "caption",
+          "text_color": "secondary",
+          "max_lines": 2
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Где находится Хогвартс?",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "2x"
+          }
+        },
+        "paddings": {
+          "top": "8x",
+          "left": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "text": "Где находится Хогвартс?"
+          }
+        ]
+      },
+      {
+        "type": "greeting_grid_item",
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "Новости",
+          "typeface": "caption",
+          "text_color": "secondary",
+          "max_lines": 2
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Расскажи новости",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "2x"
+          }
+        },
+        "paddings": {
+          "top": "8x",
+          "left": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "text": "Расскажи новости"
+          }
+        ]
+      }
+    ],
+"columns": 2,
+"item_width": "small",
+"item_height": "fixed"
+}
+}

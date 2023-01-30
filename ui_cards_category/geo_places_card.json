@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Нашлось несколько мест. Нажмите на место, чтобы увидеть маршрут."
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "top": "8x",
+          "bottom": "8x"
+        },
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "divider": {
+              "style": "default",
+              "size": "d3"
+            },
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Fjord",
+                  "typeface": "body2",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Парикмахерская • ул. Большая Ордынка, 17 • 2,3 км • м. ЦСКА • Открыто до 22:00",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "max_lines": 0,
+                  "margins": {
+                    "top": "2x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "detail": {
+                "text": "★ 4,3",
+                "typeface": "body1",
+                "text_color": "default"
+              },
+              "margins": {
+                "left": "2x"
+              },
+              "vertical_gravity" : "top"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Fjord на Большая Ордынка"
+              }
+            ]
+          },
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "divider": {
+              "style": "default",
+              "size": "d3"
+            },
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Fjord",
+                  "typeface": "body2",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Ювелирный салон • ул. Большая Ордынка, 17 • 2,3 км • м. ЦСКА • Открыто до 22:00",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "max_lines": 0,
+                  "margins": {
+                    "top": "2x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "detail": {
+                "text": "★ 3,9",
+                "typeface": "body1",
+                "text_color": "default"
+              },
+              "margins": {
+                "left": "2x"
+              },
+              "vertical_gravity" : "top"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Fjord на Большая Ордынка"
+              }
+            ]
+          },
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Fjord",
+                  "typeface": "body2",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Магазин • Петровско-Разумовский проезд, 16к2 • 1,3 км • ост. Университет • Закроется через 20 минут",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "max_lines": 0,
+                  "margins": {
+                    "top": "2x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "detail": {
+                "text": "★ 1,2",
+                "typeface": "body1",
+                "text_color": "default"
+              },
+              "margins": {
+                "left": "2x"
+              },
+              "vertical_gravity" : "top"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Fjord на Петровско-Разумовский проезд"
+              }
+            ]
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "text": "Посмотреть в 2ГИС",
+              "typeface": "button1",
+              "style": "default",
+              "type": "accept",
+              "actions": [
+                {
+                  "type": "deep_link",
+                  "deep_link": "https://2gis.ru/moscow/search/fjord"
+                }
+              ],
+              "margins": {
+                "left": "10x",
+                "top": "6x",
+                "right": "10x",
+                "bottom": "6x"
+              }
+            },
+            "paddings": {
+              "left": "8x",
+              "right": "8x",
+              "top": "8x"
+            }
+          }
+        ]
+}
+}
+]
+}

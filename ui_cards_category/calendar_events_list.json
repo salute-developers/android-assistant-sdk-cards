@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Сегодня у вас 2 события"
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "top": "8x",
+          "bottom": "8x",
+          "left": "8x",
+          "right": "8x"
+        },
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Планирование нового года",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "13:00–14:30 • Zoom",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "paddings": {
+              "top": "4x"
+            }
+          }
+        ],
+        "actions": [
+          {
+            "type": "text",
+            "text": "Покажи детали события 1"
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "top": "8x",
+          "bottom": "8x",
+          "left": "8x",
+          "right": "8x"
+        },
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Обсудить планы по оптимизации производства",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "13:00–14:30 • Zoom",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "paddings": {
+              "top": "4x"
+            }
+          }
+        ],
+        "actions": [
+          {
+            "type": "text",
+            "text": "Покажи детали события 2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+	"activate_app_info": false,
+	"activate_assistant_items": false,
+	"auto_listening": true,
+	"projectName": "Силуэты: угадай героя",
+	"intent": "run_app",
+	"app_info": {
+		"projectId": "42cda83e-a552-416c-a394-3d4986bef009",
+		"applicationId": "c2e181a5-76ae-4edd-b22f-74f82bff7e6d",
+		"appversionId": "e62b18b6-e39c-48a5-b988-35a34f23e147",
+		"frontendEndpoint": "None",
+		"frontendType": "CHAT_APP",
+		"frontendStateId": "42cda83e-a552-416c-a394-3d4986bef009_c2e181a5-76ae-4edd-b22f-74f82bff7e6d_e62b18b6-e39c-48a5-b988-35a34f23e147",
+		"appearance": {
+			"header": {
+				"title": "Силуэты: угадай героя",
+				"icon": {
+					"type": "url",
+					"url": "https://cdn.sberdevices.ru/static/services/target/30be108e-0aee-494f-95ea-b1a6caac4e9e/bb49cde2-0337-47c3-a275-cb55da056847.png",
+					"hash": "1fa6729fd447b7c327ca5b105786a749"
+				}
+			}
+		}
+	},
+	"items": [
+		{
+			"bubble": {
+				"text": "Сообщение в Силуэты: угадай героя совместно с assistant_items (message routing)"
+			}
+		},
+		{
+			"card": {
+				"type": "gallery_card",
+				"items": [
+					{
+						"type": "media_gallery_item",
+						"image": {
+							"url": "https://cdn.sberdevices.ru/VA/images/souzmultfilm/pechkin_s.png",
+							"hash": "f9547a00ec97163e981c00a3e088723c",
+							"size": {
+								"width": "small",
+								"aspect_ratio": 1.42
+							}
+						}
+					}
+				]
+			}
+		}
+	],
+	"assistant_items": [
+		{
+			"bubble": {
+				"text": "Сообщение ассистенту переданное из assistant_items (message routing)"
+			}
+		},
+		{
+			"card": {
+				"type": "list_card",
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
+							"hash": "18b48d8865e9d9338b481c81b40c6806",
+							"size": {
+								"width": "resizable",
+								"aspect_ratio": 1.45
+							}
+						}
+					}
+				]
+			}
+		}
+	]
+}

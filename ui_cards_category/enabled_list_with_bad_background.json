@@ -1,0 +1,40 @@
+{
+  "card": {
+    "type": "list_card",
+    "can_be_disabled": true,
+    "paddings": {
+      "bottom": "16x",
+      "top": "8x",
+      "left": "8x",
+      "right": "8x"
+    },
+    "background_image": {
+      "url": "https://begezavr.ru/st/krokodil.jpg",
+      "hash": "fake"
+    },
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Вопросы обо всем",
+          "typeface": "footnote1",
+          "text_color": "secondary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Мурчат ли крокодильчики?",
+          "typeface": "body1",
+          "text_color": "default",
+          "actions": [
+              {
+                 "type": "text",
+                 "text": "Конечно!"
+              }
+          ]
+        }
+      }
+    ]
+  }
+}

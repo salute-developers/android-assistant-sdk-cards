@@ -1,0 +1,8 @@
+{
+    "app_info": {
+        "applicationId": "ru.sberbank.smartapps.demo.custom_url",
+        "frontendStateId": "ru.sberbank.smartapps.demo.custom_url",
+        "frontendType": "WEB_APP",
+        "frontendEndpoint": "https://cdn-app.sberdevices.ru/misc/0.0.0/catalog-launcher/k.html"
+    }
+}

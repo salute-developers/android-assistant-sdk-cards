@@ -1,0 +1,115 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "bottom": "8x",
+      "top": "9x"
+    },
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "paddings": {
+          "left": "8x",
+          "right": "8x"
+        },
+        "content": {
+          "text": "Функции приложения",
+          "typeface": "headline3",
+          "text_color": "default"
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "16x",
+          "bottom": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "url",
+              "url": "https://cs5-2.4pda.to/6380085.png"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "right": "7x",
+              "left": "7x"
+            }
+          },
+          "icon_vertical_gravity": "center",
+          "texts": {
+            "title": {
+              "text": "Оплата по QR-коду",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          }
+        },
+        "right": {
+          "type": "disclosure_right_view",
+          "margins": {
+            "right": "5x"
+          }
+        },
+        "divider": {
+          "style": "default",
+          "size": "d5"
+        },
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "https://www.google.com/"
+          }
+        ]
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "6x",
+          "bottom": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "url",
+              "url": "https://cs5-2.4pda.to/6380085.png"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "right": "7x",
+              "left": "7x"
+            }
+          },
+          "icon_vertical_gravity": "center",
+          "texts": {
+            "title": {
+              "text": "Оплата QR-кодом",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          }
+        },
+        "right": {
+          "type": "disclosure_right_view",
+          "margins": {
+            "right": "5x"
+          }
+        },
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "https://www.google.com/"
+          }
+        ]
+      }
+    ]
+  }
+}

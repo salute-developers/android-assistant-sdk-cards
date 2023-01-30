@@ -1,0 +1,21 @@
+{
+  "app_info": {
+    "projectId": "bf5f1916-e5b5-4aa8-aa25-32991bcbac43",
+    "applicationId": "0c27fd78-fbb5-44fd-866f-6640588b7de2",
+    "appversionId": "af062648-f026-40be-b93b-b1fc0a28e514",
+    "systemName": "grocery",
+    "frontendEndpoint": "https://samokat.dev.app.sberdevices.ru/",
+    "frontendType": "WEB_APP",
+    "frontendStateId": "bf5f1916-e5b5-4aa8-aa25-32991bcbac43_0c27fd78-fbb5-44fd-866f-6640588b7de2_af062648-f026-40be-b93b-b1fc0a28e514",
+    "appearance": {
+      "header": {
+        "title": "Самокат",
+        "icon": {
+          "type": "url",
+          "url": "https://cdn.sberdevices.ru/catalog/images/samokat.png",
+          "hash": "DEADBEEF"
+        }
+      }
+    }
+  }
+}

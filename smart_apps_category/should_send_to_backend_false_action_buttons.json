@@ -1,0 +1,98 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "top": "4x",
+      "bottom": "4x"
+    },
+    "cells": [
+     {
+      "type": "button_cell_view",
+      "content": {
+        "text": "should_send_to_backend = false",
+        "typeface": "button1",
+        "style": "default",
+        "type": "disabled",
+        "actions": [
+          {
+            "type": "text",
+            "text": "нажал на кнопку с should_send_to_backend = false",
+            "should_send_to_backend": false
+          }
+        ],
+        "margins": {
+          "left": "10x",
+          "top": "5x",
+          "right": "10x",
+          "bottom": "5x"
+        }
+      },
+      "paddings": {
+        "left": "4x",
+        "top": "4x",
+        "right": "4x",
+        "bottom": "4x"
+      }
+    },
+    {
+      "type": "button_cell_view",
+      "content": {
+        "text": "should_send_to_backend = false",
+        "typeface": "button1",
+        "style": "default",
+        "type": "accept",
+        "actions": [
+          {
+            "type": "text",
+            "text": "нажал на кнопку с should_send_to_backend = false",
+            "should_send_to_backend": false
+          }
+        ],
+        "margins": {
+          "left": "10x",
+          "top": "5x",
+          "right": "10x",
+          "bottom": "5x"
+        }
+      },
+      "paddings": {
+        "left": "4x",
+        "top": "4x",
+        "right": "4x",
+        "bottom": "4x"
+      }
+    },
+    {
+      "type": "button_cell_view",
+      "content": {
+        "text": "кнопка с диплинком",
+        "typeface": "button1",
+        "style": "default",
+        "type": "disabled",
+        "actions": [
+          {
+            "type": "text",
+            "text": "нажал на серую кнопку"
+          },
+          {
+            "type": "deep_link",
+            "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+          }
+        ],
+        "margins": {
+          "left": "10x",
+          "top": "5x",
+          "right": "10x",
+          "bottom": "5x"
+        }
+      },
+      "paddings": {
+        "left": "4x",
+        "top": "4x",
+        "right": "4x",
+        "bottom": "4x"
+      }
+    }
+  ]
+  }
+}

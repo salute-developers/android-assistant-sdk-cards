@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Нашлось несколько мест. Нажмите на место, чтобы увидеть маршрут."
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "gallery_search_content_item",
+            "actions": [
+              {
+                "type": "text",
+                "text": "Fjord на Нижний Кисловский переулок, 6с2, 17"
+              }
+            ],
+            "width": "large",
+            "title_text": {
+              "text": "Парикмахерская",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "link_text": {
+              "text": "Fjord — лучшая мужская парикмахерская",
+              "typeface": "body2",
+              "text_color": "default",
+              "max_lines": 2,
+              "margins": {
+                "top": "4x",
+                "bottom": "4x"
+              }
+            },
+            "description_text": {
+              "text": "★ 4,3 • Нижний Кисловский переулок, 6с2, 17 • 1,3 км • м. Боровицкая • Закрыто до завтра",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "max_lines": 0,
+              "margins": {
+                "top": "4x"
+              }
+            },
+            "paddings": {
+              "top": "10x",
+              "left": "8x",
+              "right": "8x",
+              "bottom": "10x"
+            }
+          },
+          {
+            "type": "gallery_search_content_item",
+            "actions": [
+              {
+                "type": "text",
+                "text": "Fjord на Нижний Кисловский переулок, 6с2, 17"
+              }
+            ],
+            "width": "large",
+            "title_text": {
+              "text": "Ювелирный салон",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "link_text": {
+              "text": "Fjord",
+              "typeface": "body2",
+              "text_color": "default",
+              "max_lines": 2,
+              "margins": {
+                "top": "4x",
+                "bottom": "4x"
+              }
+            },
+            "description_text": {
+              "text": "★ 3,9 •Нижний Кисловский переулок, 6с2, 17 • 1,3 км • м. Боровицкая • Закрыто до завтра",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "max_lines": 0,
+              "margins": {
+                "top": "4x"
+              }
+            },
+            "paddings": {
+              "top": "10x",
+              "left": "8x",
+              "right": "8x",
+              "bottom": "10x"
+            }
+          },
+          {
+            "type": "gallery_more_button_item",
+            "bottom_text": {
+              "text": "Посмотреть в 2ГИС",
+              "typeface": "caption",
+              "text_color": "default",
+              "max_lines": 1,
+              "margins": {
+                "top": "4x"
+              }
+            },
+            "icon": {
+              "tint_color": "solid_white",
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png",
+                "hash": "794786554fe9c85f1651105dd2a6d8a1"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              }
+            },
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "https://2gis.ru/moscow/search/fjord"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

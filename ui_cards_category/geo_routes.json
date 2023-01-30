@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Выберите маршрут, чтобы открыть его в 2ГИС."
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "top": "8x",
+          "bottom": "4x"
+        },
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Маршрут в 2ГИС",
+              "typeface": "headline3",
+              "text_color": "default"
+            },
+            "paddings": {
+              "left": "8x",
+              "right": "8x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "От: Б.Спасоглинищевский 4/2",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "paddings": {
+              "top": "2x",
+              "left": "8x",
+              "right": "8x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "До: Петровско-Разумовский проезд, 16к2",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "paddings": {
+              "left": "8x",
+              "right": "8x",
+              "bottom": "6x"
+            }
+          },
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x"
+            },
+            "left": {
+              "type": "simple_left_view",
+              "icon": {
+                "address": {
+                  "type": "local",
+                  "identificator": "car"
+                },
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
+                },
+                "tint_color": "solid_white",
+                "margins": {
+                  "left": "8x",
+                  "right": "6x"
+                }
+              },
+              "texts": {
+                "title": {
+                  "text": "На авто",
+                  "typeface": "footnote1",
+                  "text_color": "secondary"
+                },
+                "subtitle": {
+                  "text": "7 мин • 2,3 км",
+                  "typeface": "body1",
+                  "text_color": "default",
+                  "margins": {
+                    "top": "2x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "disclosure_right_view",
+              "margins": {
+                "right": "8x"
+              }
+            },
+            "divider": {
+              "style": "default",
+              "size": "d5"
+            },
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "https://2gis.ru/moscow/directions/points/37.633419%2C55.756967%3B4504235282741463%7C37.569379%2C55.798743%3B4504235282644996?m=37.594568%2C55.773654%2F13.07"
+              }
+            ]
+          },
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x"
+            },
+            "left": {
+              "type": "simple_left_view",
+              "icon": {
+                "address": {
+                  "type": "local",
+                  "identificator": "man_badge"
+                },
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
+                },
+                "tint_color": "solid_white",
+                "margins": {
+                  "left": "8x",
+                  "right": "6x"
+                }
+              },
+              "texts": {
+                "title": {
+                  "text": "Пешком",
+                  "typeface": "footnote1",
+                  "text_color": "secondary"
+                },
+                "subtitle": {
+                  "text": "15 мин • 2,4 км",
+                  "typeface": "body1",
+                  "text_color": "default",
+                  "margins": {
+                    "top": "2x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "disclosure_right_view",
+              "margins": {
+                "right": "8x"
+              }
+            },
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "https://2gis.ru/moscow/directions/tab/pedestrian/points/37.633419%2C55.756967%3B4504235282741463%7C37.569379%2C55.798743%3B4504235282644996?m=37.601137%2C55.777718%2F13.68"
+              }
+            ]
+          }
+        ]
+}
+}
+]
+}

@@ -282,7 +282,140 @@
 					"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/disabled_card.json"
 				}
 			],
-			
+			"Приветствуй меня": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/greeting.json"
+			}],
+			"Приветствуй меня 2": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/greeting_v2.json"
+			}],
+			"Новости": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/news.json"
+			}],
+			"Котировки": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/stock_prices.json"
+			}],
+			"Карточка поиска по фичам": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/feature_card.json"
+			}],
+			"Покажи мои дела на сегодня": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/calendar_events_list.json"
+			}],
+			"Покажи детали события 2": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/calendar_event.json"
+			}],
+			"Маршрут до Fjord": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/geo_places_card.json"
+			}],
+			"Маршрут до Fjord галлерея": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/geo_places_gallery.json"
+			}],
+			"Fjord на Петровско-Разумовский проезд": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/geo_routes.json"
+			}],
+			"карточка с фоном": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/list_with_background.json"
+			}],
+			"Карточка с фоном с плохим хешом": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/list_with_bad_background.json"
+			}],
+			"Отключаемая карточка с фоном": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/enabled_list_with_background.json"
+			}],
+			"Отключаемая карточка с фоном с плохим хешом": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/enabled_list_with_bad_background.json"
+			}],
+			"Позвать оператора": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/operator_card.json"
+			}]
+		},
+		"Карточки ExtendedListCard": {
+			"Киану Ривз - landscape (photo 16x9)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany16x9.json"
+			}],
+			"Киану Ривз - landscape (photo 3x2)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany3x2.json"
+			}],
+			"Киану Ривз - landscape (photo 4x3)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany4x3.json"
+			}],
+			"Киану Ривз - landscape (photo 1x1)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany1x1.json"
+			}],
+			"Киану Ривз - landscape (photo 3x4)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany3x4.json"
+			}],
+			"Киану Ривз - landscape (photo 9x16)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany9x16.json"
+			}]
+		},
+		"Приложения": {
+			"Запусти Smart App (local demo)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/local_demo_smart_app.json"
+			}],
+			"Запусти Smart App (разные типы ссылок)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/demo_smart_app_two_diff_links.json"
+			}],
+			"Запусти Smart App (битая иконка)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/smart_app_with_bad_icon_hash.json"
+			}],
+			"Запусти попкорн activate_app_info = true": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/popcorn.json"
+			}],
+			"Запусти попкорн activate_app_info = false": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/popcorn_without_activation.json"
+			}],
+			"Запусти Попкорн с сообщениями Ассистенту": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/popcorn_with_assistant_items.json"
+			}],
+			"Сообщения Ассистенту и Силуэты без активации": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/assistant_with_silhouette_items_without_activation.json"
+			}],
+			"Запуск Ассистента с сообщениями в Силуэты": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/assistant_with_silhouette_items.json"
+			}],
+			"Запусти Попкорн с сообщениями в Силуэты": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/popcorn_with_additional_apps_payload.json"
+			}],
+			"Запусти приложение пират": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/chatapp.json"
+			}],
+			"Запусти силуэты": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/chat_app_heroes.json"
+			}],
+			"Запусти грабли оператора": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/chat_app_operator.json"
+			}],
+			"Запусти грабли оператора со статусом (icon_badge = enabled)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/chat_app_operator_with_status.json"
+			}],
+			"Запусти грабли оператора со статусом (icon_badge = disabled)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/chat_app_operator_with_status_disabled.json"
+			}],
+			"Запусти грабли оператора со статусом (icon_badge пустой)": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/chat_app_operator_with_status_empty.json"
+			}],
+			"Карточки с should_send_text_to_backend": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/should_send_to_backend_false_action_buttons.json"
+			}],
+			"Запусти попкорн на весь экран портретная ориентация": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/fullscreen_portrait_app.json"
+			}],
+			"Запусти попкорн на весь экран горизонтальная ориентация": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/fullscreen_landscape_app.json"
+			}],
+			"Запусти попкорн на весь экран любая ориентация": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/fullscreen_portrait_landscape_app.json"
+			}],
+			"Запусти попкорн горизонтальная ориентация": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/ordinary_landscape_app.json"
+			}],
+			"Запусти попкорн любая ориентация": [{
+				"system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/ordinary_portrait_landscape_app.json"
+			}]
 		}
 	}
 }
+
+
+
+
