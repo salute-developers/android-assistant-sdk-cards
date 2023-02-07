@@ -1,0 +1,74 @@
+{
+  "card": {
+    "type": "widget_title_card",
+    "cell": {
+      "type": "left_right_cell_view",
+      "left": {
+        "type": "simple_left_view",
+        "title": {
+          "text": "Каталог",
+          "typeface": "body3",
+          "text_color": "default"
+        }
+      },
+      "right": {
+        "type": "right_cell_array_view",
+        "items": [
+          {
+            "type": "round_button_cell_view",
+            "margins": {
+              "left": "2x",
+              "right": "2x"
+            },
+            "content": {
+              "icon_address": {
+                "type": "local",
+                "identificator": "sber"
+              },
+              "icon_tint": "solid_black",
+              "background_color": "solid_white",
+              "actions": [
+                {
+                  "type": "text",
+                  "text": "текст"
+                }
+              ]
+            }
+          },
+          {
+            "type": "round_button_cell_view",
+            "margins": {
+              "left": "2x",
+              "right": "2x"
+            },
+            "content": {
+              "icon_address": {
+                "type": "local",
+                "identificator": "spasibo"
+              },
+              "icon_tint": "solid_black",
+              "background_color": "solid_white",
+              "actions": [
+                {
+                  "type": "text",
+                  "text": "текст"
+                }
+              ]
+            }
+          },
+          {
+            "type": "tag_cell_view",
+            "content": {
+              "text_view": {
+                "text": "Финансы",
+                "typeface": "footnote1",
+                "text_color": "default"
+              },
+              "background_color": "liquid_40"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

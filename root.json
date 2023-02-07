@@ -757,6 +757,589 @@
                ]
             }
          ]
-      }
+      },
+      {
+         "Эмуляция":[
+         	{
+         		"Эмуляция showText": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/emulation_category/show_text.json"
+         			}
+         		]
+            }
+        ]
+      },
+      {
+         "Разрешения":[
+         	{
+         		"Разрешения на все": [
+         			{
+         				"text":"Запрашиваю разрешения на пуши, контакты, геолокацию, микрофон"
+         			},
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/permissions_category/command_all.json"
+         			}
+         		]
+            },
+            {
+         		"Разрешение на геолокацию": [
+         			{
+         				"text":"Запрашиваю разрешение на геолокацию"
+         			},
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/permissions_category/command_geo.json"
+         			}
+         		]
+            },
+            {
+         		"Разрешения на пуши": [
+         			{
+         				"text":"Запрашиваю разрешение на пуши"
+         			},
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/permissions_category/command_push.json"
+         			}
+         		]
+            }
+        ]
+      },
+      {
+         "Внутренние ссылки":[
+         	{
+         		"Открыть MSGPL": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/messenger.json"
+         			}
+         		]
+            },
+            {
+         		"Открыть MSGPL c неправильным ником": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/messenger_fail_resolve.json"
+         			}
+         		]
+            },
+            {
+         		"Открыть MSGPL с вызовом оператора": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/messenger_with_call_operator.json"
+         			}
+         		]
+            },
+            {
+         		"Оплата мобильного": [
+         			{
+         				"text":"Открываю оплату связи"
+         			},
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/action_mobile_payment.json"
+         			}
+         		]
+            },
+            {
+         		"Ассистент в СБОЛе": [
+         			{
+         				"text":"Открываю ассистента в СБОЛе"
+         			},
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/action_launch_assistant.json"
+         			}
+         		]
+            },
+            {
+         		"Заявка на кредит": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/search_request_loan.json"
+         			}
+         		]
+            },
+            {
+         		"Покажи ближайшие банкоматы": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/show_atms.json"
+         			}
+         		]
+            },
+            {
+         		"Открыть MSGPL с вызовом оператора": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/messenger_with_call_operator.json"
+         			}
+         		]
+            },
+            {
+         		"Внутренний диплинк переход в настройки": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/system_preferences.json"
+         			}
+         		]
+            },
+            {
+         		"История уведомлений (Legacy)": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/notifications_history_legacy.json"
+         			}
+         		]
+            },
+            {
+         		"Выбор контакта в диалоге": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/contact_selection.json"
+         			}
+         		]
+            },
+            {
+         		"Переход на веб Сбербанк.Онлайн": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/web_sberbank_online.json"
+         			}
+         		]
+            },
+            {
+         		"Переход на веб Сбербанк": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/deep_links_category/web_sberbank.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "Текст":[
+         	{
+         		"Текст с разметкой": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_with_markdown.json"
+         			}
+         		]
+            },
+            {
+         		"Текста с разметкой": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubbles_with_markdown.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "Погода":[
+         	{
+         		"Покажи погоду на 3 дня (DEPRECATED)": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/weather_category/weather.json"
+         			}
+         		]
+            },
+            {
+         		"Погода в Москве (DEPRECATED)": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/weather_category/weather_moscow.json"
+         			}
+         		]
+            },
+            {
+         		"Погода в Вене": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/weather_category/weather_austria.json"
+         			}
+         		]
+            },
+            {
+         		"Погода на неделю": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/weather_category/weather_week.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "Персонажи":[
+         	{
+         		"Позови Сбера": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/characters_category/sber.json"
+         			}
+         		]
+            },
+            {
+         		"Позови Еву": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/characters_category/eva.json"
+         			}
+         		]
+            },
+            {
+         		"Позови Джой": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/characters_category/joy.json"
+         			}
+         		]
+            },
+            {
+         		"Выбор персонажа": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/characters_category/select_character.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "Прочее":[
+         	{
+         		"Пополни номер на 250": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/own_phone_payment.json"
+         			}
+         		]
+            },
+            {
+         		"Сообщение с подсказками для asr": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/asr_hints.json"
+         			}
+         		]
+            },
+            {
+         		"Сообщение с сервер экшенами": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_server_actions.json"
+         			}
+         		]
+            },
+            {
+         		"Сообщение с сервер экшенами для APK музыки": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_apk_app_info.json"
+         			}
+         		]
+            },
+            {
+         		"Обновление токена erib": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/update_erib.json"
+         			}
+         		]
+            },
+            {
+         		"Обновление токена esa": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/update_esa.json"
+         			}
+         		]
+            },
+            {
+         		"Поиск по фичам": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/command.json"
+         			}
+         		]
+            },
+            {
+         		"Сообщение с хинтами": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/hints.json"
+         			}
+         		]
+            },
+            {
+         		"Открой клавиатуру": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/open_keyboard.json"
+         			}
+         		]
+            },
+            {
+         		"Копирование текста в буффер": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_server_actions.json"
+         			}
+         		]
+            },
+            {
+         		"Плеерные команды": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/pleer_commands.json"
+         			}
+         		]
+            },
+            {
+         		"Гритингсы": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/greetings.json"
+         			}
+         		]
+            },
+            {
+         		"Запрос токена от навыка": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/get_brokerage.json"
+         			}
+         		]
+            },
+            {
+         		"поделиться текстом": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_text_share_action.json"
+         			}
+         		]
+            },
+            {
+         		"команда invalidate_cache": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/invalidate_cache_command.json"
+         			}
+         		]
+            },
+            {
+         		"ussd команды для настройки переадресации вызовов": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/ussd_redirect.json"
+         			}
+         		]
+            },
+            {
+         		"external": [
+         			{
+         				"text":"Внешняя карточка"
+         			},
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/external.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "Виджеты Салюта":[
+         	{
+         		"title card disclosure": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/card_title_disclosure.json"
+         			}
+         		]
+            },
+            {
+         		"title card icon": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/card_title_icon.json"
+         			}
+         		]
+            },
+            {
+         		"title card details": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/card_title_details.json"
+         			}
+         		]
+            },
+            {
+         		"title card": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/card_only_title.json"
+         			}
+         		]
+            },
+            {
+         		"title card array horizontal": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/card_right_array_horizontal.json"
+         			}
+         		]
+            },
+            {
+         		"title card array vertical": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/card_right_array_vertical.json"
+         			}
+         		]
+            },
+            {
+         		"single card cod": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/simple_card_cod.json"
+         			}
+         		]
+            },
+            {
+         		"widget gallery": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/only_scatman_gallery.json"
+         			}
+         		]
+            },
+            {
+         		"widget two columns": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/simple_4_cards.json"
+         			}
+         		]
+            },
+            {
+         		"flexible image cards": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/flexible_image_cards.json"
+         			}
+         		]
+            },
+            {
+         		"widget gallery categories": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/simple_gallery.json"
+         			}
+         		]
+            },
+            {
+         		"typeface gallery": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/typeface_gallery.json"
+         			}
+         		]
+            },
+            {
+         		"flexible image cells": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/flexible_cells.json"
+         			}
+         		]
+            },
+            {
+         		"masked images": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/masked_cards.json"
+         			}
+         		]
+            },
+            {
+         		"widget button secondary": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/secondary_medium.json"
+         			}
+         		]
+            },
+            {
+         		"widget button primary": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/primary_small.json"
+         			}
+         		]
+            },
+            {
+         		"widget button warning": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/warning_medium_icon_url.json"
+         			}
+         		]
+            },
+            {
+         		"widget button checked": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/checked_small_icon_local.json"
+         			}
+         		]
+            },
+			{
+         		"salute list card": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/widgets_category/news_list.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "США":[
+         	{
+         		"не разворачивай шторку": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/preserve_panel_state.json"
+         			}
+         		]
+            },
+            {
+         		"шторка с коротким текстом": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/auto_expand.json"
+         			}
+         		]
+            },
+            {
+         		"шторка с длинным текстом": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/auto_expand_long.json"
+         			}
+         		]
+            },
+            {
+         		"разверни шторку": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/force_expand.json"
+         			}
+         		]
+            },
+            {
+         		"в корне не разворачивай шторку": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/preserve_panel_state_root.json"
+         			}
+         		]
+            },
+            {
+         		"в корне шторка с коротким текстом": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/auto_expand_root.json"
+         			}
+         		]
+            },
+            {
+         		"в корне шторка с длинным текстом": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/no_expand_long_root.json"
+         			}
+         		]
+            },
+            {
+         		"в корне разверни шторку": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/force_expand_root.json"
+         			}
+         		]
+            },
+            {
+         		"нет сообщений разверни шторку": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/expand_policy_category/force_expand_root_empty_items.json"
+         			}
+         		]
+            }
+        ]
+     },
+     {
+         "Киану Ривз":[
+         	{
+         		"Киану Ривз": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category_accessibility/keanu_reeves.json"
+         			}
+         		]
+            },
+            {
+         		"Киану Ривз TOP A11Y": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category_accessibility/keanu_reeves_top_a11y.json"
+         			}
+         		]
+            },
+			{
+         		"Киану Ривз Can be disabled": [
+         			{
+         				"system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category_accessibility/keanu_reeves_can_be_disabled.json"
+         			}
+         		]
+            }
+        ]
+     }
    ]
 }

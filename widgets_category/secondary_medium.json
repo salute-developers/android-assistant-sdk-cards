@@ -1,0 +1,14 @@
+{
+  "card": {
+    "type": "widget_button",
+    "style": "secondary",
+    "text": "Style secondary, size medium, no icon",
+    "size": "medium",
+    "actions": [
+      {
+        "type": "deep_link",
+        "deep_link": "https://www.sber.ru/new"
+      }
+    ]
+  }
+}

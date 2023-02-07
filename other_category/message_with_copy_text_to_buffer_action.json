@@ -1,0 +1,15 @@
+{
+    "suggestions": {
+        "buttons": [
+            {
+                "title": "Тест экшена",
+                "actions": [
+                    {
+                        "text": "Где ближайшие отделения?",
+                        "type": "copy_text_to_buffer"
+                    }
+                ]
+            }
+        ]   
+    }
+}

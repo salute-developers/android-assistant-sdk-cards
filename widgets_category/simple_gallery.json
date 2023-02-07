@@ -1,0 +1,220 @@
+{
+  "card": {
+    "type":"widget_gallery_with_categories",
+    "categories":[
+      {
+        "title":"Категория 1",
+        "items": [
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 1",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "background_color": "#AA99FF"
+          },
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 1",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "background_color": "#AA99FF"
+          },
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 1",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "background_color": "#AA99FF"
+          },
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 1",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "background_color": "#AA99FF"
+          }
+        ]
+      },
+      {
+        "title":"Категория 2",
+        "items": [
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 2",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#22BBCC"
+          },
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 2",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#22BBCC"
+          },
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 2",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#22BBCC"
+          },
+          {
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "title": {
+                    "text": "Категория 2",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                }
+              }
+            },
+            "paddings": {
+              "top": "8x",
+              "bottom": "8x",
+              "left": "8x",
+              "right": "8x"
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#22BBCC"
+          }
+        ]
+      }
+    ],
+"categories_paddings": {
+  "left":"8x"
+}
+}
+}

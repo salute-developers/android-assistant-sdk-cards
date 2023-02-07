@@ -1,0 +1,8 @@
+{
+    "command": {
+        "type": "action",
+        "action": {
+            "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/payments/services/mobile"
+        }
+    }
+}

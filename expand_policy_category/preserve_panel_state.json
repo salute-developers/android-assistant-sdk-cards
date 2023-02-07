@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "PRESERVE PANEL STATE",
+        "expand_policy": "preserve_panel_state"
+      }
+    }
+  ]
+}

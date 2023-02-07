@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Показываю гритингсы"
+      }
+    }
+  ],
+  "greetings_suggestions": {
+    "buttons": [
+      {
+        "title": "Отделения",
+        "action": {
+          "text": "Отделения"
+        }
+      },
+      {
+        "title": "Банкоматы",
+        "action": {
+          "text": "Банкоматы"
+        }
+      },
+      {
+        "title": "Кредит",
+        "action": {
+          "text": "Кредит"
+        }
+      },
+      {
+        "title": "Диплинк на банкоматы",
+        "action": {
+          "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/main/map"
+        }
+      },
+      {
+        "title": "Ипотека",
+        "action": {
+          "text": "Заявка на ипотеку"
+        }
+      }
+    ]
+  }
+}

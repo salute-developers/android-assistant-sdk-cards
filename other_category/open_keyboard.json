@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "command": {
+        "type": "action",
+        "action": {
+          "type": "open_keyboard"
+        }
+      }
+    }
+  ]
+}

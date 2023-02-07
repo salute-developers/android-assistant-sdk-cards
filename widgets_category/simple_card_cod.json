@@ -1,0 +1,62 @@
+{
+  "card": {
+    "type": "widget_single_card",
+    "item": {
+      "paddings": {
+        "top": "8x",
+        "bottom": "8x",
+        "left": "8x",
+        "right": "8x"
+      },
+      "cells": {
+        "top_cell": {
+          "type": "left_right_cell_view",
+          "left": {
+            "type": "simple_left_view",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://www.toornament.com/media/file/3019253216309166080/logo_large?v=1573925533"
+              },
+              "rounded_corners": "rounded",
+              "size": {
+                "width": "large",
+                "height": "large"
+              }
+            }
+          }
+        },
+        "bottom_cell": {
+          "type": "left_right_cell_view",
+          "left": {
+            "type": "simple_left_view",
+            "texts": {
+              "subtitle": {
+                "text": "Call of Duty: Mobile",
+                "max_lines": 2,
+                "typeface": "body1",
+                "text_color": "default"
+              },
+              "caption": {
+                "text": "Королевская битва",
+                "typeface": "body1",
+                "max_lines": 2,
+                "text_color": "secondary"
+              }
+            }
+          }
+        }
+      },
+      "has_fade": false,
+      "width_columns": 4,
+      "aspect_ratio": "16:9",
+      "background_color": "#65808C",
+      "actions": [
+        {
+          "type": "deep_link",
+          "deep_link": "https://www.callofduty.com/mobile"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "bottom": "12x",
+      "top": "12x",
+      "left": "8x",
+      "right": "8x"
+    },
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Санкт-Петербург",
+          "typeface": "title1",
+          "text_color": "default"
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "Понедельник, 15 сентября",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "margins": {
+            "left": "2x"
+          },
+          "info_and_icon": {
+            "info": {
+              "text": "+5",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "left": "2x"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "Вторник, 16 сентября",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "margins": {
+            "left": "2x"
+          },
+          "info_and_icon": {
+            "info": {
+              "text": "+10",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "left": "2x"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "Среда, 17 сентября",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "margins": {
+            "left": "2x"
+          },
+          "info_and_icon": {
+            "info": {
+              "text": "+20",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "left": "2x"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

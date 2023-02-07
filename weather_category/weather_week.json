@@ -1,0 +1,152 @@
+{
+  "card": {
+    "type": "list_card",
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Санкт - Петербург",
+          "typeface": "headline3",
+          "text_color": "default"
+        }
+      },
+      {
+        "type": "weather_cell_view",
+        "content": [
+          {
+            "weekday": "Понедельник",
+            "date": "15 сентября",
+            "day": "+5°",
+            "night": "-5°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          },
+          {
+            "weekday": "Вторник",
+            "date": "16 сентября",
+            "day": "+23°",
+            "night": "+12°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          },
+          {
+            "weekday": "Среда",
+            "date": "17 сентября",
+            "day": "0°",
+            "night": "-23°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          },
+          {
+            "weekday": "Четверг",
+            "date": "18 сентября",
+            "day": "+13°",
+            "night": "-5°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          },
+          {
+            "weekday": "Пятница",
+            "date": "19 сентября",
+            "day": "+6°",
+            "night": "0°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          },
+          {
+            "weekday": "Суббота",
+            "date": "20 сентября",
+            "day": "+11°",
+            "night": "-11°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          },
+          {
+            "weekday": "Воскресенье",
+            "date": "21 сентября две тысячи девятнадцатого года от рождества христова",
+            "day": "+50°",
+            "night": "-73°",
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cs5-2.4pda.to/6380085.png"
+              },
+              "size": {
+                "width": "small",
+                "height": "small"
+              }
+            }
+          }
+        ],
+        "paddings": {
+          "top": "8x"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "По данным Gismeteo",
+          "typeface": "footnote1",
+          "text_color": "secondary"
+        },
+        "paddings": {
+          "top": "10x"
+        }
+      }
+    ],
+    "paddings": {
+      "top": "9x",
+      "right": "8x",
+      "bottom": "9x",
+      "left": "8x"
+    }
+  }
+}

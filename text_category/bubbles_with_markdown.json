@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "*Курсив* - курсив маркдаун",
+        "markdown": true
+
+      }
+    },
+    {
+      "bubble": {
+        "text": "*Курсив* - курсив маркдаун, markdown = false",
+        "markdown": false
+      }
+    },
+    {
+      "bubble": {
+        "text": "**Жирный** - жирный маркдаун",
+        "markdown": true
+      }
+    },
+    {
+      "bubble": {
+        "text": "~~Зачеркнутый~~ - зачеркнутый маркдаун",
+        "markdown": true
+      }
+    },
+    {
+      "bubble": {
+        "text": "Ссылка с текстом: [Сайт Сбербанка](https://www.sberbank.ru/)",
+        "markdown": true
+      }
+    },
+    {
+      "bubble": {
+        "text": "Диплинк с банкоматами к банкоматам: [Банкоматы](android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/main/map)",
+        "markdown": true
+      }
+    },
+    {
+      "bubble": {
+        "text": "Первая строка, перевод строки\n\nВторая строка",
+        "markdown": true
+      }
+    }
+  ]
+}

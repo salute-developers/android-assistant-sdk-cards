@@ -1,0 +1,80 @@
+{
+  "app_info": {
+    "projectId": "2c96f0b4-4be9-4fb6-b80f-f7f83395042e",
+    "applicationId": "d7c7178e-99d8-4192-962f-34c3940a6fdf",
+    "appversionId": "672af7be-23d8-4d9c-95a2-f3e72c722145",
+    "systemName": "music",
+    "frontendEndpoint": "ru.sberdevices.music",
+    "frontendType": "APK",
+    "frontendStateId": "2c96f0b4-4be9-4fb6-b80f-f7f83395042e_d7c7178e-99d8-4192-962f-34c3940a6fdf_672af7be-23d8-4d9c-95a2-f3e72c722145"
+  },
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "Лайк_2",
+        "actions": [
+          {
+            "type": "server_action",
+            "message_name": "RUN_APP",
+            "server_action": {
+              "action_id": "PLAYER_LIKE",
+              "app_info": {
+                "projectId": "2c96f0b4-4be9-4fb6-b80f-f7f83395042e",
+                "systemName": "music"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "card": {
+    "type": "gallery_card",
+    "items": [
+      {
+        "type": "media_gallery_item",
+        "image": {
+          "url": "https://res.online.sberbank.ru/VA/images/movies_icon_2x.png",
+          "hash": "dfb3e9be55b9cee5dcaae5df20336abe",
+          "size": {
+            "width": "small",
+            "aspect_ratio": 1.42
+          }
+        },
+        "margins": {
+          "top": "4x",
+          "left": "6x",
+          "right": "6x",
+          "bottom": "5x"
+        },
+        "top_text": {
+          "text": "Аватар",
+          "typeface": "footnote1",
+          "text_color": "default",
+          "max_lines": 2
+        },
+        "actions": [
+          {
+            "type": "server_action",
+            "message_name": "RUN_APP",
+            "server_action": {
+              "action_id": "MOVIECARD_REQUEST_ACTION",
+              "app_info": {
+                "projectId": "c82b0c8b-e80b-43c8-962b-46aafc44cd30",
+                "applicationId": "b1c3ec1d-ff7f-4290-8483-9d1855b0d3da",
+                "appversionId": "e4547743-d23f-4eb0-ba95-bb05e739e7ad"
+              },
+              "parameters": {
+                "contentId": "916693ed-3223-4b48-bf80-d175c5ac213c",
+                "coverSize": {
+                  "coverHeight": "720",
+                  "coverWidth": "1280"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

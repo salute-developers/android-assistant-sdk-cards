@@ -1,0 +1,18 @@
+{
+  "card": {
+    "type": "widget_button",
+    "style": "warning",
+    "text": "Style warning, size medium, icon - url",
+    "size": "medium",
+    "icon": {
+      "type": "url",
+      "url": "https://image.flaticon.com/icons/png/512/1077/1077035.png"
+    },
+    "actions": [
+      {
+        "type": "deep_link",
+        "deep_link": "https://www.sber.ru/new"
+      }
+    ]
+  }
+}

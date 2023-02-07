@@ -1,0 +1,18 @@
+{
+  "card": {
+    "type": "widget_button",
+    "style": "checked",
+    "text": "Style checked, size small, icon local",
+    "size": "small",
+    "actions": [
+      {
+        "type": "deep_link",
+        "deep_link": "https://www.sber.ru/new"
+      }
+    ],
+    "icon": {
+      "type": "local",
+      "identificator": "sber"
+    }
+  }
+}

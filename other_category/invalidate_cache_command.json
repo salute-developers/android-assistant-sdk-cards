@@ -1,0 +1,9 @@
+{
+ "items": [
+   {
+     "command": {
+       "type": "invalidate_cache"
+     }
+   }
+ ]
+}

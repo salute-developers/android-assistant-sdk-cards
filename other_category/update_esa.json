@@ -1,0 +1,5 @@
+{
+    "command": {
+        "type": "refresh_esa_token"
+    }
+}

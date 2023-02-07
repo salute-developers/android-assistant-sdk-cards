@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "FORCE_EXPAND",
+        "expand_policy": "force_expand"
+      }
+    }
+  ]
+}

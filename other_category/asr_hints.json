@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "bubble": "Это сообщение с подсказками для asr"
+    }
+  ],
+  "asr_hints": {
+    "contexts": [
+      "mobile_contacts"
+    ]
+  }
+}

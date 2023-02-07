@@ -1,0 +1,71 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "top": "8x",
+      "bottom": "8x",
+      "left": "8x",
+      "right": "8x"
+    },
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Сейчас в Москве",
+          "typeface": "headline3",
+          "text_color": "default"
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "url",
+              "url": "https://1.bp.blogspot.com/-i1hxxCCzD-I/XFBmDTayqTI/AAAAAAAAGvM/-oStwTod6Xofz17vSECzXNeRE0Rdt-8gQCLcBGAs/s72-c/weather-157114_960_720.png"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "title": {
+            "text": "+20°",
+            "typeface": "headline1",
+            "text_color": "default",
+            "margins": {
+             "left": "4x"
+           }
+         }
+       }
+     },
+     {
+      "type": "text_cell_view",
+      "content": {
+        "text": "Ощущается как +3, пасмурно, небольшой дождь",
+        "typeface": "footnote1",
+        "text_color": "secondary",
+        "max_lines": 0
+      },
+      "paddings": {
+        "top": "2x"
+      }
+    },
+    {
+      "type": "text_cell_view",
+      "content": {
+        "text": "По данным Gismeteo",
+        "typeface": "footnote1",
+        "text_color": "secondary"
+      },
+      "paddings": {
+        "top": "8x"
+      }
+    }
+  ]
+  }
+}

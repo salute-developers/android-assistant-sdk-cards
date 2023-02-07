@@ -1,0 +1,11 @@
+{
+  "expand_policy": "preserve_panel_state",
+  "items": [
+    {
+      "bubble": {
+        "text": "PRESERVE PANEL STATE",
+        "expand_policy": "force_expand"
+      }
+    }
+  ]
+}

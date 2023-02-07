@@ -1,0 +1,181 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "left": "8x",
+              "top": "8x",
+              "right": "8x",
+              "bottom": "8x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Позови Сбера"
+              }
+            ],
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Сбер",
+                  "typeface": "headline3",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Деловой стиль общения как у сотрудника Сбера",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "max_lines": 0,
+                  "margins": {
+                    "top": "4x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "info_and_icon": {
+                "icon": {
+                  "address": {
+                    "type": "url",
+                    "url": "https://test.stat.online.sberbank.ru/VA/icons/sber_2.png"
+                  },
+                  "size": {
+                    "width": "xlarge",
+                    "height": "xlarge"
+                  },
+                  "margins": {
+                    "left": "8x"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "left": "8x",
+              "top": "8x",
+              "right": "8x",
+              "bottom": "8x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Позови Еву"
+              }
+            ],
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Ева",
+                  "typeface": "headline3",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Умереный тон, понимающий собеседник для любых задач",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "max_lines": 0,
+                  "margins": {
+                    "top": "4x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "info_and_icon": {
+                "icon": {
+                  "address": {
+                    "type": "url",
+                    "url": "https://test.stat.online.sberbank.ru/VA/icons/eva_2.png"
+                  },
+                  "size": {
+                    "width": "xlarge",
+                    "height": "xlarge"
+                  },
+                  "margins": {
+                    "left": "8x"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "left": "8x",
+              "top": "8x",
+              "right": "8x",
+              "bottom": "8x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Позови Джой"
+              }
+            ],
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Джой",
+                  "typeface": "headline3",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Лёгкий стиль общения и бодрое настроение",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "max_lines": 0,
+                  "margins": {
+                    "top": "4x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "info_and_icon": {
+                "icon": {
+                  "address": {
+                    "type": "url",
+                    "url": "https://test.stat.online.sberbank.ru/VA/icons/joy_2.png"
+                  },
+                  "size": {
+                    "width": "xlarge",
+                    "height": "xlarge"
+                  },
+                  "margins": {
+                    "left": "8x"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

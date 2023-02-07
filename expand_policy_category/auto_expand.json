@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "AUTO_EXPAND",
+        "expand_policy": "auto_expand"
+      }
+    }
+  ]
+}

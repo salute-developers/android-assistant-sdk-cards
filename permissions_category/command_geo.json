@@ -1,0 +1,8 @@
+{
+    "command": {
+        "type": "request_permissions",
+        "permissions": [
+            "geo"
+        ]
+    }
+}

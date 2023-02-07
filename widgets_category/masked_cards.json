@@ -1,0 +1,159 @@
+{
+  "card": {
+    "type":"widget_two_columns",
+    "left": {
+      "cards": [
+        {
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x",
+          "left": "4x",
+          "right": "4x"
+        },
+        "cells": {
+          "bottom_cell": {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Eminem",
+                  "typeface": "body1",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "The Eminem Show",
+                  "typeface": "footnote1",
+                  "text_color": "secondary"
+                }
+              }
+            }
+          }
+        },
+        "has_fade": false,
+        "background_color":"#c71306",
+        "width_columns": 2,
+        "aspect_ratio": "1:1",
+        "background_image": {
+          "url": "https://imgrosetta.mynet.com/file/9824935/640xauto.png",
+          "mask": "bottom"
+          }
+        }, 
+        {
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x",
+          "left": "4x",
+          "right": "4x"
+        },
+        "cells": {
+          "bottom_cell": {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "System Of A Down",
+                  "typeface": "body1",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Лучшее",
+                  "typeface": "footnote1",
+                  "text_color": "secondary"
+                }
+              }
+            }
+          }
+        },
+        "has_fade": false,
+        "background_color":"#4a4430",
+        "width_columns": 2,
+        "aspect_ratio": "2:3",
+        "background_image": {
+          "scale_mode": "top",
+          "url": "https://img.wallpapersafari.com/desktop/1280/1024/81/58/vBce0O.jpg",
+          "mask": "bottom"
+          }
+        }
+      ]
+    },
+    "right": {
+      "cards": [
+        {
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x",
+          "left": "4x",
+          "right": "4x"
+        },
+        "cells": {
+          "bottom_cell": {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "Музыка Бондианы",
+                  "typeface": "body1",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Плейлист",
+                  "typeface": "footnote1",
+                  "text_color": "secondary"
+                }
+              }
+            }
+          }
+        },
+        "has_fade": false,
+        "width_columns": 2,
+        "aspect_ratio": "3:4",
+        "background_image": {
+          "url": "https://www.heryasta.org/wp-content/uploads/2020/02/bond2.jpg",
+          "mask": "bottom"
+          }
+        }, 
+        {
+        "paddings": {
+          "top": "4x",
+          "bottom": "4x",
+          "left": "4x",
+          "right": "4x"
+        },
+        "cells": {
+          "bottom_cell": {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "simple_left_view",
+              "texts": {
+                "title": {
+                  "text": "20 лет The Black Album",
+                  "typeface": "body1",
+                  "max_lines": 3,
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Вспоминаем классику - Enter Sandman, The Unforgiven и др.",
+                  "typeface": "footnote1",
+                  "max_lines": 2,
+                  "text_color": "secondary"
+                }
+              }
+            }
+          }
+        },
+        "has_fade": false,
+        "width_columns": 2,
+        "aspect_ratio": "3:4",
+        "background_image": {
+          "scale_mode": "top",
+          "url": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-metallica-b97a4a69-956d-4d76-b423-a46eed77016a.jpg",
+          "mask": "bottom"
+          }
+        }
+      ]
+    }
+  }
+}

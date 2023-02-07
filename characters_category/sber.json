@@ -1,0 +1,12 @@
+{
+    "character": {
+        "id": "sber"
+    },
+    "items": [
+        {
+            "bubble": {
+                "text": "Салют! Я Сбер"
+            }
+        }
+    ]
+}

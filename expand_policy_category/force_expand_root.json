@@ -1,0 +1,12 @@
+{
+  "expand_policy": "force_expand",
+  "items": [
+    {
+      "bubble": {
+        "text": "FORCE_EXPAND",
+        
+        "expand_policy": "preserve_panel_state"
+      }
+    }
+  ]
+}
