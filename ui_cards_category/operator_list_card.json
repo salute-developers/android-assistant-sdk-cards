@@ -1,0 +1,82 @@
+{
+  "card": {
+    "type": "list_card",
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Чат с оператором",
+          "typeface": "headline3",
+          "text_color": "default"
+        },
+        "paddings": {
+          "left": "8x",
+          "top": "8x",
+          "right": "8x"
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "url",
+              "url": "https://cdn.sberdevices.ru/catalog/images/dialog_card_operator_icon.png"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "top": "6x",
+              "right": "6x",
+              "bottom": "6x"
+            }
+          },
+          "icon_vertical_gravity": "center"
+        },
+        "right": {
+          "type": "operator_chat_cell_view",
+          "text": {
+            "text": "Оператор скоро присоединится",
+            "typeface": "body1",
+            "text_color": "default"
+          }
+        }
+      },
+      {
+        "type": "button_cell_view",
+        "content": {
+          "text": "Открыть чат",
+          "typeface": "button2",
+          "style": "default",
+          "type": "accept",
+          "actions": [
+            {
+              "type": "text",
+              "text": "Нажал открыть чат"
+            }
+          ],
+          "margins": {
+            "left": "9x",
+            "top": "6x",
+            "right": "9x",
+            "bottom": "6x"
+          }
+        },
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x",
+          "bottom": "8x"
+        }
+      }
+    ]
+  }
+}
