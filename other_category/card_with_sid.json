@@ -1,0 +1,144 @@
+{
+  "showText": "privet",
+
+  "pronounceText": "Привет!",
+
+  "pronounceReadableText": "Привет!",
+
+  "auto_listening": true,
+
+  "asr_hints": {
+  },
+
+  "app_info": {
+  },
+  "activate_app_info": "false",
+  "activate_assistant_items": "true",
+  "character": {
+    "id": "sber"
+  },
+  "items": [
+    {
+      "card": {}
+    },
+    {
+      "card": {}
+    },
+    {
+      "bubble": {
+        "text": "Привет!"
+      }
+    },
+    {
+      "bubble": {
+        "text": "*Привет всем*",
+        "markdown": true
+      }
+    },
+    {
+      "command": {}
+    },
+    {
+      "command": {}
+    },
+    {
+      "command": {}
+    },
+    {
+      "card": {}
+    },
+    {
+      "card": {}
+    }
+  ],
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "Отделения",
+        "actions": [
+          {
+            "text": "Где ближайшие отделения?",
+            "type": "text"
+          },
+          {
+            "type": "server_action",
+            "server_action": {}
+          }
+        ]
+      },
+      {
+        "title": "Кредит",
+        "actions": [
+          {
+            "text": "Оформить заявку на кредит",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Банкоматы",
+        "actions": [
+          {
+            "deep_link": "https://www.google.com/maps/search/банкоматы/",
+            "type": "deep_link"
+          }
+        ]
+      }
+    ]
+  },
+  "greetings_suggestions": {
+    "buttons": [
+      {
+        "title": "Отделения",
+        "actions": [
+          {
+            "text": "Где ближайшие отделения?",
+            "type": "text"
+          },
+          {
+            "type": "server_action",
+            "server_action": {}
+          }
+        ]
+      },
+      {
+        "title": "Кредит",
+        "actions": [
+          {
+            "text": "Оформить заявку на кредит",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Банкоматы",
+        "actions": [
+          {
+            "deep_link": "https://www.google.com/maps/search/банкоматы/",
+            "type": "deep_link"
+          }
+        ]
+      }
+    ]
+  },
+  "sid": "SID_0123456789",
+  "hints": {
+    "random": true,
+    "should_repeat": false,
+    "start_time": 5000,
+    "items": [
+      {
+        "prefix": "Попробуйте сказать",
+        "text": "Покажи популярные фильмы",
+        "alive_time": 10000,
+        "next_time": 3000
+      },
+      {
+        "prefix": "Попробуйте сказать",
+        "text": "Какая погода в Москве",
+        "alive_time": 10000,
+        "next_time": 3000
+      }
+    ]
+  }
+}
