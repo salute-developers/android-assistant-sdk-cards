@@ -2,6 +2,7 @@
     "card": {
         "type": "p2p_transfer_confirmation",
         "title": "Перевод клиенту Сбербанка",
+        "accessibility": "A11y: Пеервод клиенту сбербанка по номеру телефона",
         "contact_info": {
             "name": "Илья Богданович",
             "phone": "+7 (912) 345-67-89",

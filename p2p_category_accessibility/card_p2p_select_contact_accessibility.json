@@ -2,7 +2,6 @@
     "card": {
         "type": "p2p_contact_selection",
         "title": "Кому переводим?",
-        "accessibility": "A11y: Выбор контакта которому переводим деньги",
         "contacts": [
             {
                 "name": "Илья Богданович",
