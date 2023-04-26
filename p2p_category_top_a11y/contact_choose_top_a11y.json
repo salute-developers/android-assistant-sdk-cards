@@ -2,6 +2,7 @@
    "card":{
       "type":"p2p_contact_selection",
       "title":"Контакты",
+      "accessibility": "A11y: Контакты",
       "contacts":[
          {
             "id":1004,

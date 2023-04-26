@@ -260,6 +260,67 @@
       ]
     },
     {
+      "Переводы c TOP A11Y":[
+        {
+          "Переведи Васе TOP A11Y":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/p2p_category_top_a11y/contact_choose_top_a11y.json"
+            }
+          ]
+        },
+        {
+          "Выбрать Илью Богдановича TOP A11Y":[
+            {
+              "text":"Проверьте данные"
+            },
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/p2p_category_top_a11y/card_p2p_confirmation_in_progress_top_a11y.json"
+            }
+          ]
+        },
+        {
+          "Изменить получателя TOP A11Y":[
+            {
+              "text":"Выберите контакт"
+            },
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/p2p_category_top_a11y/card_p2p_select_contact_top_a11y.json"
+            }
+          ]
+        },
+        {
+          "Изменить получателя c шаблоном TOP A11Y":[
+            {
+              "text":"Выберите контакт"
+            },
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/p2p_category_top_a11y/card_p2p_select_contact_with_template_top_a11y.json"
+            }
+          ]
+        },
+        {
+          "Изменить карту TOP A11Y":[
+            {
+              "text":"Откуда деньги, Зин?"
+            },
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/p2p_category_top_a11y/card_p2p_select_bank_account_top_a11y.json"
+            }
+          ]
+        },
+        {
+          "Продолжай TOP A11Y":[
+            {
+              "text":"Переводим?"
+            },
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/p2p_category_top_a11y/card_p2p_confirmation_final_top_a11y.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "Результаты переводов":[
         {
           "Перевод выполнен":[
