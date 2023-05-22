@@ -15,6 +15,29 @@
                 "cells":
                 [
                     {
+                        "type": "button_cell_view",
+                        "content":
+                        {
+                            "text": "old button",
+                            "typeface": "display1",
+                            "style": "default",
+                            "type": "accept", 
+                            "actions":
+                            [
+                                {
+                                    "type": "deep_link",
+                                    "deep_link": "https://google.com"
+                                }
+                            ],
+                            "style": "primary"
+                        },
+                        "paddings":
+                        {
+                            "top": "2x",
+                            "bottom": "2x"
+                        }
+                    },
+                    {
                         "type": "left_right_cell_view",
                         "left": {
                             "type": "plasma_button_cell_view",
