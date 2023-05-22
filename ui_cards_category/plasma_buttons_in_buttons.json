@@ -19,7 +19,7 @@
                         "content":
                         {
                             "text": "old button",
-                            "typeface": "display1",
+                            "typeface": "text1",
                             "style": "default",
                             "type": "accept", 
                             "actions":
