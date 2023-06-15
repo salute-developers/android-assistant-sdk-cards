@@ -1,0 +1,216 @@
+{
+  "card": {
+    "type": "list_card",
+    "cells": [
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "4x",
+          "bottom": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "localcontact",
+              "local_contact_hash": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
+              "initials": "ABCDE"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "right": "6x"
+            }
+          },
+          "icon_vertical_gravity": "center",
+          "texts": {
+            "title": {
+              "text": "ФИО пользователя",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "subtitle": {
+              "text": "Инициалы ABCDE",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "margins": {
+                "top": "1x"
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "disclosure_right_view",
+          "margins": {}
+        },
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account"
+          }
+        ]
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "4x",
+          "bottom": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "localcontact",
+              "local_contact_hash": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
+              "initials": "AB"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "right": "6x"
+            }
+          },
+          "icon_vertical_gravity": "center",
+          "texts": {
+            "title": {
+              "text": "ФИО пользователя",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "subtitle": {
+              "text": "Инициалы AB",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "margins": {
+                "top": "1x"
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "disclosure_right_view",
+          "margins": {}
+        },
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account"
+          }
+        ]
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "4x",
+          "bottom": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "localcontact",
+              "local_contact_hash": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
+              "initials": "A"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "right": "6x"
+            }
+          },
+          "icon_vertical_gravity": "center",
+          "texts": {
+            "title": {
+              "text": "ФИО пользователя",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "subtitle": {
+              "text": "Инициалы A",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "margins": {
+                "top": "1x"
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "disclosure_right_view",
+          "margins": {}
+        },
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account"
+          }
+        ]
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "4x",
+          "bottom": "6x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "address": {
+              "type": "localcontact",
+              "local_contact_hash": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
+              "initials": ""
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "right": "6x"
+            }
+          },
+          "icon_vertical_gravity": "center",
+          "texts": {
+            "title": {
+              "text": "ФИО пользователя",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "subtitle": {
+              "text": "Инициалов нет",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "margins": {
+                "top": "1x"
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "disclosure_right_view",
+          "margins": {}
+        },
+        "actions": [
+          {
+            "type": "deep_link",
+            "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account"
+          }
+        ]
+      }
+    ]
+  }
+}
+

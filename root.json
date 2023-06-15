@@ -433,6 +433,13 @@
     {
       "Карточки":[
         {
+          "Карточка с иконкой контакта (localcontact, initials)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_initials_icon.json"
+            }
+          ]
+        },
+        {
           "Карточка с plasma кнопками внутри обычных кнопок": [
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/plasma_buttons_in_buttons.json"
