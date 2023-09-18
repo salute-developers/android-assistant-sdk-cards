@@ -1,5 +1,9 @@
 {
-    "command": {
+  "items": [
+    {
+      "command": {
         "type": "request_hash_of_contacts"
+      }
     }
+  ]
 }

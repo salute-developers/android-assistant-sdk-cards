@@ -1,5 +1,9 @@
 {
-    "card": {
+  "items": [
+    {
+      "card": {
         "type": "externalCard"
+      }
     }
+  ]
 }

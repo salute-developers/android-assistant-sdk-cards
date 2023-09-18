@@ -1,5 +1,9 @@
 {
-    "command": {
-         "type": "brokerage"
+  "items": [
+    {
+      "command": {
+        "type": "brokerage"
+      }
     }
+  ]
 }

@@ -28,53 +28,57 @@
       }
     ]
   },
-  "card": {
-    "type": "gallery_card",
-    "items": [
-      {
-        "type": "media_gallery_item",
-        "image": {
-          "url": "https://res.online.sberbank.ru/VA/images/movies_icon_2x.png",
-          "hash": "dfb3e9be55b9cee5dcaae5df20336abe",
-          "size": {
-            "width": "small",
-            "aspect_ratio": 1.42
-          }
-        },
-        "margins": {
-          "top": "4x",
-          "left": "6x",
-          "right": "6x",
-          "bottom": "5x"
-        },
-        "top_text": {
-          "text": "Аватар",
-          "typeface": "footnote1",
-          "text_color": "default",
-          "max_lines": 2
-        },
-        "actions": [
+  "items": [
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
           {
-            "type": "server_action",
-            "message_name": "RUN_APP",
-            "server_action": {
-              "action_id": "MOVIECARD_REQUEST_ACTION",
-              "app_info": {
-                "projectId": "c82b0c8b-e80b-43c8-962b-46aafc44cd30",
-                "applicationId": "b1c3ec1d-ff7f-4290-8483-9d1855b0d3da",
-                "appversionId": "e4547743-d23f-4eb0-ba95-bb05e739e7ad"
-              },
-              "parameters": {
-                "contentId": "916693ed-3223-4b48-bf80-d175c5ac213c",
-                "coverSize": {
-                  "coverHeight": "720",
-                  "coverWidth": "1280"
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://res.online.sberbank.ru/VA/images/movies_icon_2x.png",
+              "hash": "dfb3e9be55b9cee5dcaae5df20336abe",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "top_text": {
+              "text": "Аватар",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            },
+            "actions": [
+              {
+                "type": "server_action",
+                "message_name": "RUN_APP",
+                "server_action": {
+                  "action_id": "MOVIECARD_REQUEST_ACTION",
+                  "app_info": {
+                    "projectId": "c82b0c8b-e80b-43c8-962b-46aafc44cd30",
+                    "applicationId": "b1c3ec1d-ff7f-4290-8483-9d1855b0d3da",
+                    "appversionId": "e4547743-d23f-4eb0-ba95-bb05e739e7ad"
+                  },
+                  "parameters": {
+                    "contentId": "916693ed-3223-4b48-bf80-d175c5ac213c",
+                    "coverSize": {
+                      "coverHeight": "720",
+                      "coverWidth": "1280"
+                    }
+                  }
                 }
               }
-            }
+            ]
           }
         ]
       }
-    ]
-  }
+    }
+  ]
 }

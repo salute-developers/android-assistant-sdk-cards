@@ -1,5 +1,9 @@
 {
-    "command": {
+  "items": [
+    {
+      "command": {
         "type": "refresh_erib_token"
+      }
     }
+  ]
 }

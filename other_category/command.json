@@ -1,8 +1,12 @@
 {
-  "command": {
-    "type": "start_smart_search",
-    "start_smart_search": {
-      "query": "открыть вклад"
+  "items": [
+    {
+      "command": {
+        "type": "start_smart_search",
+        "start_smart_search": {
+          "query": "открыть вклад"
+        }
+      }
     }
-  }
+  ]
 }

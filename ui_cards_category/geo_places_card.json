@@ -54,7 +54,7 @@
               "margins": {
                 "left": "2x"
               },
-              "vertical_gravity" : "top"
+              "vertical_gravity": "top"
             },
             "actions": [
               {
@@ -104,7 +104,7 @@
               "margins": {
                 "left": "2x"
               },
-              "vertical_gravity" : "top"
+              "vertical_gravity": "top"
             },
             "actions": [
               {
@@ -150,7 +150,7 @@
               "margins": {
                 "left": "2x"
               },
-              "vertical_gravity" : "top"
+              "vertical_gravity": "top"
             },
             "actions": [
               {
@@ -186,7 +186,7 @@
             }
           }
         ]
-}
-}
-]
+      }
+    }
+  ]
 }

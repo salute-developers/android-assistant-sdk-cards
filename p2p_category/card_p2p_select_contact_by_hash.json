@@ -1,32 +1,36 @@
 {
-  "card": {
-    "type": "p2p_top_contact_selection",
-    "title": "Контакты",
-    "contacts": [
-      {
-        "hash": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
-        "action": {
-          "type": "send_contact_phone",
-          "template": "Один [[placeholder]]",
-          "send_hashed_phone": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b"
-        }
-      },
-      {
-        "hash": "dcde66d8b26375a3c367a7d2b8ffdfea661cd36fc4e95c1ff7f98678941fde31",
-        "action": {
-          "type": "send_contact_phone",
-          "template": "Два [[placeholder]]",
-          "send_hashed_phone": "dcde66d8b26375a3c367a7d2b8ffdfea661cd36fc4e95c1ff7f98678941fde31"
-        }
-      },
-      {
-        "hash": "a746c77598a935f18c4da95516eeb20a3a19e6f592b2319bf5150ea07eb87835",
-        "action": {
-          "type": "send_contact_phone",
-          "template": "Три [[placeholder]]",
-          "send_hashed_phone": "a746c77598a935f18c4da95516eeb20a3a19e6f592b2319bf5150ea07eb87835"
-        }
+  "items": [
+    {
+      "card": {
+        "type": "p2p_top_contact_selection",
+        "title": "Контакты",
+        "contacts": [
+          {
+            "hash": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b",
+            "action": {
+              "type": "send_contact_phone",
+              "template": "Один [[placeholder]]",
+              "send_hashed_phone": "3ab4d556fe99f7beb463d3a1c8920e291a733ab8c276ce6b5c48138399d6dc2b"
+            }
+          },
+          {
+            "hash": "dcde66d8b26375a3c367a7d2b8ffdfea661cd36fc4e95c1ff7f98678941fde31",
+            "action": {
+              "type": "send_contact_phone",
+              "template": "Два [[placeholder]]",
+              "send_hashed_phone": "dcde66d8b26375a3c367a7d2b8ffdfea661cd36fc4e95c1ff7f98678941fde31"
+            }
+          },
+          {
+            "hash": "a746c77598a935f18c4da95516eeb20a3a19e6f592b2319bf5150ea07eb87835",
+            "action": {
+              "type": "send_contact_phone",
+              "template": "Три [[placeholder]]",
+              "send_hashed_phone": "a746c77598a935f18c4da95516eeb20a3a19e6f592b2319bf5150ea07eb87835"
+            }
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }

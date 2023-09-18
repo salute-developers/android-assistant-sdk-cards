@@ -1,20 +1,24 @@
 {
-  "card": {
-    "type": "widget_title_card",
-    "cell": {
-      "type": "left_right_cell_view",
-      "left": {
-        "type": "simple_left_view",
-        "title": {
-          "text": "Заголовок",
-          "typeface": "body1",
-          "text_color": "default"
+  "items": [
+    {
+      "card": {
+        "type": "widget_title_card",
+        "cell": {
+          "type": "left_right_cell_view",
+          "left": {
+            "type": "simple_left_view",
+            "title": {
+              "text": "Заголовок",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          },
+          "right": {
+            "type": "disclosure_right_view"
+          },
+          "log_id": "custom_log_id"
         }
-      },
-      "right": {
-        "type": "disclosure_right_view"
-      },
-      "log_id": "custom_log_id"
+      }
     }
-  }
+  ]
 }

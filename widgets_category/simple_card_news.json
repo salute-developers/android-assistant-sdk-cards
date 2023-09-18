@@ -1,50 +1,54 @@
 {
-  "card": {
-    "type": "widget_single_card",
-    "item": {
-      "paddings": {
-        "top": "8x",
-        "bottom": "8x",
-        "left": "8x",
-        "right": "8x"
-      },
-      "cells": {
-        "bottom_cell": {
-          "type": "left_right_cell_view",
-          "left": {
-            "type": "simple_left_view",
-            "texts": {
-              "subtitle": {
-                "text": "Энтони Хопкинс признан лучшим актером по версии жюри «Оскара»",
-                "max_lines": 3,
-                "typeface": "body1",
-                "text_color": "default"
-              },
-              "caption": {
-                "text": "Для Энтони Хопкинса награда стала уже второй в его биографии. В 1992 году он победил в этой номинации благодаря главной роли в фильме «Молчание ягнят» (1990) Джонатана Демме.",
-                "typeface": "caption",
-                "max_lines": 2,
-                "text_color": "secondary",
-                "margins": {
-                  "top": "2x"
+  "items": [
+    {
+      "card": {
+        "type": "widget_single_card",
+        "item": {
+          "paddings": {
+            "top": "8x",
+            "bottom": "8x",
+            "left": "8x",
+            "right": "8x"
+          },
+          "cells": {
+            "bottom_cell": {
+              "type": "left_right_cell_view",
+              "left": {
+                "type": "simple_left_view",
+                "texts": {
+                  "subtitle": {
+                    "text": "Энтони Хопкинс признан лучшим актером по версии жюри «Оскара»",
+                    "max_lines": 3,
+                    "typeface": "body1",
+                    "text_color": "default"
+                  },
+                  "caption": {
+                    "text": "Для Энтони Хопкинса награда стала уже второй в его биографии. В 1992 году он победил в этой номинации благодаря главной роли в фильме «Молчание ягнят» (1990) Джонатана Демме.",
+                    "typeface": "caption",
+                    "max_lines": 2,
+                    "text_color": "secondary",
+                    "margins": {
+                      "top": "2x"
+                    }
+                  }
                 }
               }
             }
-          }
+          },
+          "has_fade": true,
+          "width_columns": 4,
+          "aspect_ratio": "16:9",
+          "background_image": {
+            "url": "https://img.joinfo.com/i/2021/04/60866290c98bc.jpg"
+          },
+          "actions": [
+            {
+              "type": "deep_link",
+              "deep_link": "https://portal-kultura.ru/articles/news/332659-entoni-khopkins-priznan-luchshim-akterom-po-versii-zhyuri-oskara/?utm_source=yxnews&utm_medium=desktop&nw=1619520780000"
+            }
+          ]
         }
-      },
-      "has_fade": true,
-      "width_columns": 4,
-      "aspect_ratio": "16:9",
-      "background_image": {
-        "url": "https://img.joinfo.com/i/2021/04/60866290c98bc.jpg"
-      },
-      "actions": [
-        {
-          "type": "deep_link",
-          "deep_link": "https://portal-kultura.ru/articles/news/332659-entoni-khopkins-priznan-luchshim-akterom-po-versii-zhyuri-oskara/?utm_source=yxnews&utm_medium=desktop&nw=1619520780000"
-        }
-      ]
+      }
     }
-  }
+  ]
 }

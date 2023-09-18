@@ -1,15 +1,19 @@
 {
-    "card": {
+  "items": [
+    {
+      "card": {
         "type": "p2p_transfer_result",
         "title": "Перевод заблокирован",
         "addressee": "Илья Богданович",
-        "transfer_amount": "1010 \u20BD",
+        "transfer_amount": "1010 ₽",
         "style": "blocked",
         "action_button": {
-            "text": "Позвонить в банк",
-            "action": {
-                "deep_link": "tel:+78001234567"
-            }
+          "text": "Позвонить в банк",
+          "action": {
+            "deep_link": "tel:+78001234567"
+          }
         }
+      }
     }
+  ]
 }
