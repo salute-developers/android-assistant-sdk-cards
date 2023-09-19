@@ -1,6 +1,10 @@
 {
-    "command": {
+  "items": [
+    {
+      "command": {
         "type": "request_contacts",
         "timeout": 1
+      }
     }
+  ]
 }

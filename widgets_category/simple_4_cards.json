@@ -1,205 +1,209 @@
 {
-  "card": {
-    "type":"widget_two_columns",
-    "left": {
-      "cards": [
-        {
-          "paddings": {
-            "top": "4x",
-            "bottom": "4x",
-            "left": "4x",
-            "right": "4x"
-          },
-          "cells": {
-            "top_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "icon": {
-                  "address": {
-                    "type": "url",
-                    "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
-                  },
-                  "rounded_corners": "circle",
-                  "size": {
-                    "width": "small",
-                    "height": "small"
+  "items": [
+    {
+      "card": {
+        "type": "widget_two_columns",
+        "left": {
+          "cards": [
+            {
+              "paddings": {
+                "top": "4x",
+                "bottom": "4x",
+                "left": "4x",
+                "right": "4x"
+              },
+              "cells": {
+                "top_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "icon": {
+                      "address": {
+                        "type": "url",
+                        "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
+                      },
+                      "rounded_corners": "circle",
+                      "size": {
+                        "width": "small",
+                        "height": "small"
+                      }
+                    }
                   }
+                },
+                "bottom_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "title": {
+                      "text": "Доставим за 15 минут",
+                      "max_lines": 0,
+                      "typeface": "body1",
+                      "text_color": "default"
+                    }
+                  },
+                  "log_id": "custom_log_id"
+                }
+              },
+              "has_fade": false,
+              "width_columns": 2,
+              "aspect_ratio": "2:3",
+              "background_image": {
+                "url": "https://catherineasquithgallery.com/uploads/posts/2021-02/thumbs/1614397793_54-p-yeda-na-temnom-fone-81.jpg",
+                "mask": "bottom",
+                "size": {
+                  "type": "match_parent"
                 }
               }
             },
-            "bottom_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "title": {
-                  "text": "Доставим за 15 минут",
-                  "max_lines": 0,
-                  "typeface": "body1",
-                  "text_color": "default"
+            {
+              "paddings": {
+                "top": "4x",
+                "bottom": "4x",
+                "left": "4x",
+                "right": "4x"
+              },
+              "cells": {
+                "top_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "icon": {
+                      "address": {
+                        "type": "url",
+                        "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
+                      },
+                      "rounded_corners": "circle",
+                      "size": {
+                        "width": "small",
+                        "height": "small"
+                      }
+                    }
+                  }
+                },
+                "bottom_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "title": {
+                      "text": "Бесплатная доставка",
+                      "max_lines": 0,
+                      "typeface": "body1",
+                      "text_color": "default"
+                    }
+                  },
+                  "right": {
+                    "type": "disclosure_right_view"
+                  },
+                  "log_id": "custom_log_id"
                 }
               },
-              "log_id": "custom_log_id"
+              "has_fade": false,
+              "width_columns": 2,
+              "aspect_ratio": "1:1"
             }
-          },
-          "has_fade": false,
-          "width_columns": 2,
-          "aspect_ratio": "2:3",
-          "background_image": {
-            "url": "https://catherineasquithgallery.com/uploads/posts/2021-02/thumbs/1614397793_54-p-yeda-na-temnom-fone-81.jpg",
-            "mask": "bottom",
-            "size": {
-              "type": "match_parent"
-            }
-          }
-        }, 
-        {
-          "paddings": {
-            "top": "4x",
-            "bottom": "4x",
-            "left": "4x",
-            "right": "4x"
-          },
-          "cells": {
-            "top_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "icon": {
-                  "address": {
-                    "type": "url",
-                    "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
-                  },
-                  "rounded_corners": "circle",
-                  "size": {
-                    "width": "small",
-                    "height": "small"
+          ]
+        },
+        "right": {
+          "cards": [
+            {
+              "paddings": {
+                "top": "4x",
+                "bottom": "4x",
+                "left": "4x",
+                "right": "4x"
+              },
+              "cells": {
+                "top_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "icon": {
+                      "address": {
+                        "type": "url",
+                        "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
+                      },
+                      "rounded_corners": "circle",
+                      "size": {
+                        "width": "small",
+                        "height": "small"
+                      }
+                    }
                   }
+                },
+                "bottom_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "title": {
+                      "text": "Бесплатная доставка",
+                      "max_lines": 0,
+                      "typeface": "body1",
+                      "text_color": "default"
+                    }
+                  },
+                  "right": {
+                    "type": "disclosure_right_view"
+                  },
+                  "log_id": "custom_log_id"
+                }
+              },
+              "has_fade": false,
+              "width_columns": 2,
+              "aspect_ratio": "1:1"
+            },
+            {
+              "paddings": {
+                "top": "4x",
+                "bottom": "4x",
+                "left": "4x",
+                "right": "4x"
+              },
+              "cells": {
+                "top_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "icon": {
+                      "address": {
+                        "type": "url",
+                        "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
+                      },
+                      "rounded_corners": "circle",
+                      "size": {
+                        "width": "small",
+                        "height": "small"
+                      }
+                    }
+                  }
+                },
+                "bottom_cell": {
+                  "type": "left_right_cell_view",
+                  "left": {
+                    "type": "simple_left_view",
+                    "title": {
+                      "text": "Доставим за 15 минут",
+                      "max_lines": 0,
+                      "typeface": "body1",
+                      "text_color": "default"
+                    }
+                  },
+                  "log_id": "custom_log_id"
+                }
+              },
+              "has_fade": false,
+              "width_columns": 2,
+              "aspect_ratio": "2:3",
+              "background_image": {
+                "url": "https://catherineasquithgallery.com/uploads/posts/2021-02/thumbs/1614397793_54-p-yeda-na-temnom-fone-81.jpg",
+                "mask": "bottom",
+                "size": {
+                  "type": "match_parent"
                 }
               }
-            },
-            "bottom_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "title": {
-                  "text": "Бесплатная доставка",
-                  "max_lines": 0,
-                  "typeface": "body1",
-                  "text_color": "default"
-                }
-              },
-              "right": {
-                "type": "disclosure_right_view"
-              },
-              "log_id": "custom_log_id"
             }
-          },
-          "has_fade": false,
-          "width_columns": 2,
-          "aspect_ratio": "1:1"
+          ]
         }
-      ]
-    },
-    "right": {
-      "cards": [
-        {
-          "paddings": {
-            "top": "4x",
-            "bottom": "4x",
-            "left": "4x",
-            "right": "4x"
-          },
-          "cells": {
-            "top_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "icon": {
-                  "address": {
-                    "type": "url",
-                    "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
-                  },
-                  "rounded_corners": "circle",
-                  "size": {
-                    "width": "small",
-                    "height": "small"
-                  }
-                }
-              }
-            },
-            "bottom_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "title": {
-                  "text": "Бесплатная доставка",
-                  "max_lines": 0,
-                  "typeface": "body1",
-                  "text_color": "default"
-                }
-              },
-              "right": {
-                "type": "disclosure_right_view"
-              },
-              "log_id": "custom_log_id"
-            }
-          },
-          "has_fade": false,
-          "width_columns": 2,
-          "aspect_ratio": "1:1"
-        }, 
-        {
-          "paddings": {
-            "top": "4x",
-            "bottom": "4x",
-            "left": "4x",
-            "right": "4x"
-          },
-          "cells": {
-            "top_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "icon": {
-                  "address": {
-                    "type": "url",
-                    "url": "https://cs8.pikabu.ru/avatars/2594/x2594642-1228294435.png"
-                  },
-                  "rounded_corners": "circle",
-                  "size": {
-                    "width": "small",
-                    "height": "small"
-                  }
-                }
-              }
-            },
-            "bottom_cell": {
-              "type": "left_right_cell_view",
-              "left": {
-                "type": "simple_left_view",
-                "title": {
-                  "text": "Доставим за 15 минут",
-                  "max_lines": 0,
-                  "typeface": "body1",
-                  "text_color": "default"
-                }
-              },
-              "log_id": "custom_log_id"
-            }
-          },
-          "has_fade": false,
-          "width_columns": 2,
-          "aspect_ratio": "2:3",
-          "background_image": {
-            "url": "https://catherineasquithgallery.com/uploads/posts/2021-02/thumbs/1614397793_54-p-yeda-na-temnom-fone-81.jpg",
-            "mask": "bottom",
-            "size": {
-              "type": "match_parent"
-            }
-          }
-        }
-      ]
+      }
     }
-  }
+  ]
 }

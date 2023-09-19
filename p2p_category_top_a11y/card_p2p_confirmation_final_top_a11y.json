@@ -1,39 +1,43 @@
 {
-    "card": {
+  "items": [
+    {
+      "card": {
         "type": "p2p_transfer_confirmation",
         "title": "Перевод клиенту Сбербанка",
         "subtitle": "Илья Богданович",
         "accessibility": "A11y: Подтвердите перевод Илье Богдановичу",
         "contact_info": {
-            "title": "Получатель",
-            "name": "Илья Юрьевич Б.",
-            "phone": "+7 (912) 345-67-89",
-            "bank_account": "•••• 9999",
-            "avatar_url": "https://sberbank.ru/contacts/1000.jpg",
-            "accessibility": "A11y: Получатель перевода Богданович Илья Юрьевич"
+          "title": "Получатель",
+          "name": "Илья Юрьевич Б.",
+          "phone": "+7 (912) 345-67-89",
+          "bank_account": "•••• 9999",
+          "avatar_url": "https://sberbank.ru/contacts/1000.jpg",
+          "accessibility": "A11y: Получатель перевода Богданович Илья Юрьевич"
         },
         "bank_account_info": {
-            "title": "Счет списания",
-            "name": "MasterCard",
-            "number": "•••• 1234",
-            "balance": "100 001,23 \u20BD",
-            "avatar_url": "https://sberbank.ru/cards/gold.jpg",
-            "icon_local": "card_mc_gold",
-            "accessibility": "A11y: Счет MasterCard последние цифры 1234"
+          "title": "Счет списания",
+          "name": "MasterCard",
+          "number": "•••• 1234",
+          "balance": "100 001,23 ₽",
+          "avatar_url": "https://sberbank.ru/cards/gold.jpg",
+          "icon_local": "card_mc_gold",
+          "accessibility": "A11y: Счет MasterCard последние цифры 1234"
         },
         "transfer_amount_info": {
-            "avatar_url": "https://sberbank.ru/transfer.jpg",
-            "title": "Сумма перевода",
-            "value": "1000 \u20BD",
-            "transfer_fee": "Комиссия 10 \u20BD",
-            "accessibility": "A11y: Сумма 1000 \u20BD включая комиссию 10 \u20BD"
+          "avatar_url": "https://sberbank.ru/transfer.jpg",
+          "title": "Сумма перевода",
+          "value": "1000 ₽",
+          "transfer_fee": "Комиссия 10 ₽",
+          "accessibility": "A11y: Сумма 1000 ₽ включая комиссию 10 ₽"
         },
         "confirmation_button": {
-            "text": "Перевести 1010 \u20BD",
-            "accessibility": "A11y: Подтвердить перевод",
-            "action": {
-                "text": "Подтверждаю"
-            }
+          "text": "Перевести 1010 ₽",
+          "accessibility": "A11y: Подтвердить перевод",
+          "action": {
+            "text": "Подтверждаю"
+          }
         }
+      }
     }
+  ]
 }

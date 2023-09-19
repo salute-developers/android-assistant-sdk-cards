@@ -1,39 +1,43 @@
 {
-  "card": {
-    "type": "list_card",
-    "can_be_disabled": false,
-    "paddings": {
-      "top": "4x",
-      "bottom": "4x"
-    },
-    "cells": [
-      {
-        "type": "button_cell_view",
-        "content": {
-          "text": "can_be_disabled: false",
-          "typeface": "button1",
-          "style": "default",
-          "type": "accept",
-          "actions": [
-            {
-              "type": "text",
-              "text": "нажатие на всегда разблокированную карточку"
-            }
-          ],
-          "margins": {
-            "left": "10x",
-            "top": "5x",
-            "right": "10x",
-            "bottom": "5x"
-          }
-        },
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "can_be_disabled": false,
         "paddings": {
-          "left": "4x",
           "top": "4x",
-          "right": "4x",
           "bottom": "4x"
-        }
+        },
+        "cells": [
+          {
+            "type": "button_cell_view",
+            "content": {
+              "text": "can_be_disabled: false",
+              "typeface": "button1",
+              "style": "default",
+              "type": "accept",
+              "actions": [
+                {
+                  "type": "text",
+                  "text": "нажатие на всегда разблокированную карточку"
+                }
+              ],
+              "margins": {
+                "left": "10x",
+                "top": "5x",
+                "right": "10x",
+                "bottom": "5x"
+              }
+            },
+            "paddings": {
+              "left": "4x",
+              "top": "4x",
+              "right": "4x",
+              "bottom": "4x"
+            }
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }

@@ -1,43 +1,47 @@
 {
-    "card": {
+  "items": [
+    {
+      "card": {
         "type": "p2p_transfer_confirmation",
         "title": "Перевод клиенту Сбербанка",
         "contact_info": {
-            "name": "Илья Богданович",
-            "phone": "+7 (912) 345-67-89",
-            "avatar_url": "https://sberbank.ru/contacts/1000.jpg",
-            "log_id": "p2p_transfer_confirmation",
-            "accessibility": "A11y: Получатель Илья Богданович",
-            "action": {
-                "text": "Изменить получателя"
-            }
+          "name": "Илья Богданович",
+          "phone": "+7 (912) 345-67-89",
+          "avatar_url": "https://sberbank.ru/contacts/1000.jpg",
+          "log_id": "p2p_transfer_confirmation",
+          "accessibility": "A11y: Получатель Илья Богданович",
+          "action": {
+            "text": "Изменить получателя"
+          }
         },
         "bank_account_info": {
-            "title": "Счет списания",
-            "name": "MasterCard",
-            "number": "•••• 1234",
-            "balance": "100 001,23 \u20BD",
-            "avatar_url": "https://sberbank.ru/cards/gold.jpg",
-            "accessibility": "A11y: Счет MasterCard последние цифры 1234",
-            "action": {
-                "text": "Изменить карту"
-            }
+          "title": "Счет списания",
+          "name": "MasterCard",
+          "number": "•••• 1234",
+          "balance": "100 001,23 ₽",
+          "avatar_url": "https://sberbank.ru/cards/gold.jpg",
+          "accessibility": "A11y: Счет MasterCard последние цифры 1234",
+          "action": {
+            "text": "Изменить карту"
+          }
         },
         "transfer_amount_info": {
-            "avatar_url": "https://sberbank.ru/transfer.jpg",
-            "title": "Сумма перевода",
-            "value": "1000 \u20BD",
-            "accessibility": "A11y: Сумма 1000 \u20BD без комиссии",
-            "action": {
-                "text": "Изменить сумму"
-            }
+          "avatar_url": "https://sberbank.ru/transfer.jpg",
+          "title": "Сумма перевода",
+          "value": "1000 ₽",
+          "accessibility": "A11y: Сумма 1000 ₽ без комиссии",
+          "action": {
+            "text": "Изменить сумму"
+          }
         },
         "confirmation_button": {
-            "text": "Продолжить",
-            "accessibility": "A11y: Продолжить оформление",
-            "action": {
-                "text": "Продолжай"
-            }
+          "text": "Продолжить",
+          "accessibility": "A11y: Продолжить оформление",
+          "action": {
+            "text": "Продолжай"
+          }
         }
+      }
     }
+  ]
 }

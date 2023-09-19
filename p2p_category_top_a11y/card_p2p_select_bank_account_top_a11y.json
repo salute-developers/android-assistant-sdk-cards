@@ -1,38 +1,42 @@
 {
-    "card": {
+  "items": [
+    {
+      "card": {
         "type": "p2p_bank_account_selection",
         "title": "Счет списания",
         "accessibility": "A11y: Выберите счет списания",
         "bank_accounts": [
-            {
-                "name": "MasterCard",
-                "number": "•••• 0000",
-                "balance": "12345,67 \u20BD",
-                "accessibility": "A11y: Выбрать счет MasterCard последние 4 цифры 0000",
-                "action": {
-                    "text": "Выбрать MasterCard •••• 0000"
-                },
-                "icon_local": "card_mc_gold"
+          {
+            "name": "MasterCard",
+            "number": "•••• 0000",
+            "balance": "12345,67 ₽",
+            "accessibility": "A11y: Выбрать счет MasterCard последние 4 цифры 0000",
+            "action": {
+              "text": "Выбрать MasterCard •••• 0000"
             },
-            {
-                "name": "Visa Infinite",
-                "number": "•••• 0001",
-                "balance": "23456,78 \u20BD",
-                "accessibility": "A11y: Выбрать счет Visa Infinite последние 4 цифры 0001",
-                "action": {
-                    "text": "Выбрать Visa •••• 0001"
-                },
-                "icon_local": "card_mc_null"
+            "icon_local": "card_mc_gold"
+          },
+          {
+            "name": "Visa Infinite",
+            "number": "•••• 0001",
+            "balance": "23456,78 ₽",
+            "accessibility": "A11y: Выбрать счет Visa Infinite последние 4 цифры 0001",
+            "action": {
+              "text": "Выбрать Visa •••• 0001"
             },
-            {
-                "name": "Visa Platinum",
-                "number": "•••• 0002",
-                "balance": "45678,90 \u20BD",
-                "accessibility": "A11y: Выбрать счет Visa Platinum последние 4 цифры 0002",
-                "action": {
-                    "text": "Выбрать Visa •••• 0002"
-                }
+            "icon_local": "card_mc_null"
+          },
+          {
+            "name": "Visa Platinum",
+            "number": "•••• 0002",
+            "balance": "45678,90 ₽",
+            "accessibility": "A11y: Выбрать счет Visa Platinum последние 4 цифры 0002",
+            "action": {
+              "text": "Выбрать Visa •••• 0002"
             }
+          }
         ]
+      }
     }
+  ]
 }

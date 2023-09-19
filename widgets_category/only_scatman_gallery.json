@@ -1,327 +1,331 @@
 {
-  "card": {
-    "type":"widget_gallery",
-    "items": [
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "texts": {
-                "title": {
-                  "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
-                  "typeface": "body1",
-                  "text_color": "default"
-                },
-                "subtitle": {
-                  "text": "Ski-Ba-Bop-Ba-Dop-Bop",
-                  "typeface": "footnote1",
-                  "text_color": "secondary"
+  "items": [
+    {
+      "card": {
+        "type": "widget_gallery",
+        "items": [
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
+            },
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "texts": {
+                    "title": {
+                      "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+                      "typeface": "body1",
+                      "text_color": "default"
+                    },
+                    "subtitle": {
+                      "text": "Ski-Ba-Bop-Ba-Dop-Bop",
+                      "typeface": "footnote1",
+                      "text_color": "secondary"
+                    }
+                  }
                 }
               }
+            },
+            "has_fade": true,
+            "width_columns": 2,
+            "aspect_ratio": "1:1",
+            "background_image": {
+              "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
             }
-          }
-        },
-        "has_fade": true,
-        "width_columns": 2,
-        "aspect_ratio": "1:1",
-        "background_image": {
-          "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
-        }
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "texts": {
-                "title": {
-                  "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
-                  "typeface": "body1",
-                  "text_color": "default"
-                },
-                "subtitle": {
-                  "text": "Ski-Ba-Bop-Ba-Dop-Bop",
-                  "typeface": "footnote1",
-                  "text_color": "secondary"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
+            },
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "texts": {
+                    "title": {
+                      "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+                      "typeface": "body1",
+                      "text_color": "default"
+                    },
+                    "subtitle": {
+                      "text": "Ski-Ba-Bop-Ba-Dop-Bop",
+                      "typeface": "footnote1",
+                      "text_color": "secondary"
+                    }
+                  }
                 }
               }
+            },
+            "has_fade": true,
+            "width_columns": 2,
+            "aspect_ratio": "1:1",
+            "background_image": {
+              "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
             }
-          }
-        },
-        "has_fade": true,
-        "width_columns": 2,
-        "aspect_ratio": "1:1",
-        "background_image": {
-          "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
-        }
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "icon": {
-                "tint_color": "solid_brand",
-                "address": {
-                  "type": "local",
-                  "identificator": "atm_banknote"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
+            },
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "icon": {
+                    "tint_color": "solid_brand",
+                    "address": {
+                      "type": "local",
+                      "identificator": "atm_banknote"
+                    },
+                    "size": {
+                      "width": "medium",
+                      "height": "medium"
+                    }
+                  },
+                  "title": {
+                    "text": "тест",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
                 },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                }
-              },
-              "title": {
-                "text": "тест",
-                "typeface": "body1",
-                "text_color": "default"
-              }
-            },
-            "right": {
-              "type": "disclosure_right_view"
-            },
-            "actions": [
-              {
-                "type": "deep_link",
-                "deep_link": "tel://+123"
-              }
-            ],
-            "log_id": "custom_log_id"
-          }
-        },
-        "has_fade": false,
-        "width_columns": 2,
-        "aspect_ratio": "2:3",
-        "background_color": "#66AA2211"
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "icon": {
-                "tint_color": "solid_brand",
-                "address": {
-                  "type": "local",
-                  "identificator": "atm_banknote"
+                "right": {
+                  "type": "disclosure_right_view"
                 },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                }
-              },
-              "title": {
-                "text": "тест",
-                "typeface": "body1",
-                "text_color": "default"
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "tel://+123"
+                  }
+                ],
+                "log_id": "custom_log_id"
               }
             },
-            "right": {
-              "type": "disclosure_right_view"
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#66AA2211"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
             },
-            "actions": [
-              {
-                "type": "deep_link",
-                "deep_link": "tel://+123"
-              }
-            ],
-            "log_id": "custom_log_id"
-          }
-        },
-        "has_fade": false,
-        "width_columns": 2,
-        "aspect_ratio": "2:3",
-        "background_color": "#66AA2211"
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "texts": {
-                "title": {
-                  "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
-                  "typeface": "body1",
-                  "text_color": "default"
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "icon": {
+                    "tint_color": "solid_brand",
+                    "address": {
+                      "type": "local",
+                      "identificator": "atm_banknote"
+                    },
+                    "size": {
+                      "width": "medium",
+                      "height": "medium"
+                    }
+                  },
+                  "title": {
+                    "text": "тест",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
                 },
-                "subtitle": {
-                  "text": "Ski-Ba-Bop-Ba-Dop-Bop",
-                  "typeface": "footnote1",
-                  "text_color": "secondary"
+                "right": {
+                  "type": "disclosure_right_view"
+                },
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "tel://+123"
+                  }
+                ],
+                "log_id": "custom_log_id"
+              }
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#66AA2211"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
+            },
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "texts": {
+                    "title": {
+                      "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+                      "typeface": "body1",
+                      "text_color": "default"
+                    },
+                    "subtitle": {
+                      "text": "Ski-Ba-Bop-Ba-Dop-Bop",
+                      "typeface": "footnote1",
+                      "text_color": "secondary"
+                    }
+                  }
                 }
               }
+            },
+            "has_fade": true,
+            "width_columns": 2,
+            "aspect_ratio": "1:1",
+            "background_image": {
+              "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
             }
-          }
-        },
-        "has_fade": true,
-        "width_columns": 2,
-        "aspect_ratio": "1:1",
-        "background_image": {
-          "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
-        }
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "texts": {
-                "title": {
-                  "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
-                  "typeface": "body1",
-                  "text_color": "default"
-                },
-                "subtitle": {
-                  "text": "Ski-Ba-Bop-Ba-Dop-Bop",
-                  "typeface": "footnote1",
-                  "text_color": "secondary"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
+            },
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "texts": {
+                    "title": {
+                      "text": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+                      "typeface": "body1",
+                      "text_color": "default"
+                    },
+                    "subtitle": {
+                      "text": "Ski-Ba-Bop-Ba-Dop-Bop",
+                      "typeface": "footnote1",
+                      "text_color": "secondary"
+                    }
+                  }
                 }
               }
+            },
+            "has_fade": true,
+            "width_columns": 2,
+            "aspect_ratio": "1:1",
+            "background_image": {
+              "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
             }
-          }
-        },
-        "has_fade": true,
-        "width_columns": 2,
-        "aspect_ratio": "1:1",
-        "background_image": {
-          "url": "https://fb.ru/misc/i/gallery/58679/2941112.jpg"
-        }
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "icon": {
-                "tint_color": "solid_brand",
-                "address": {
-                  "type": "local",
-                  "identificator": "atm_banknote"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
+            },
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "icon": {
+                    "tint_color": "solid_brand",
+                    "address": {
+                      "type": "local",
+                      "identificator": "atm_banknote"
+                    },
+                    "size": {
+                      "width": "medium",
+                      "height": "medium"
+                    }
+                  },
+                  "title": {
+                    "text": "тест",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
                 },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                }
-              },
-              "title": {
-                "text": "тест",
-                "typeface": "body1",
-                "text_color": "default"
-              }
-            },
-            "right": {
-              "type": "disclosure_right_view"
-            },
-            "actions": [
-              {
-                "type": "deep_link",
-                "deep_link": "tel://+123"
-              }
-            ],
-            "log_id": "custom_log_id"
-          }
-        },
-        "has_fade": false,
-        "width_columns": 2,
-        "aspect_ratio": "2:3",
-        "background_color": "#66AA2211"
-      },
-      {
-        "paddings": {
-          "top": "4x",
-          "bottom": "4x",
-          "left": "4x",
-          "right": "4x"
-        },
-        "cells": {
-          "bottom_cell": {
-            "type": "left_right_cell_view",
-            "left": {
-              "type": "simple_left_view",
-              "icon": {
-                "tint_color": "solid_brand",
-                "address": {
-                  "type": "local",
-                  "identificator": "atm_banknote"
+                "right": {
+                  "type": "disclosure_right_view"
                 },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                }
-              },
-              "title": {
-                "text": "тест",
-                "typeface": "body1",
-                "text_color": "default"
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "tel://+123"
+                  }
+                ],
+                "log_id": "custom_log_id"
               }
             },
-            "right": {
-              "type": "disclosure_right_view"
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#66AA2211"
+          },
+          {
+            "paddings": {
+              "top": "4x",
+              "bottom": "4x",
+              "left": "4x",
+              "right": "4x"
             },
-            "actions": [
-              {
-                "type": "deep_link",
-                "deep_link": "tel://+123"
+            "cells": {
+              "bottom_cell": {
+                "type": "left_right_cell_view",
+                "left": {
+                  "type": "simple_left_view",
+                  "icon": {
+                    "tint_color": "solid_brand",
+                    "address": {
+                      "type": "local",
+                      "identificator": "atm_banknote"
+                    },
+                    "size": {
+                      "width": "medium",
+                      "height": "medium"
+                    }
+                  },
+                  "title": {
+                    "text": "тест",
+                    "typeface": "body1",
+                    "text_color": "default"
+                  }
+                },
+                "right": {
+                  "type": "disclosure_right_view"
+                },
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "tel://+123"
+                  }
+                ],
+                "log_id": "custom_log_id"
               }
-            ],
-            "log_id": "custom_log_id"
+            },
+            "has_fade": false,
+            "width_columns": 2,
+            "aspect_ratio": "2:3",
+            "background_color": "#66AA2211"
           }
-        },
-        "has_fade": false,
-        "width_columns": 2,
-        "aspect_ratio": "2:3",
-        "background_color": "#66AA2211"
+        ]
       }
-    ]
-}
+    }
+  ]
 }

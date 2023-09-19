@@ -1,323 +1,327 @@
 {
-  "card": {
-    "type": "list_card",
-    "paddings": {
-      "bottom": "8x",
-      "top": "8x",
-      "left": "8x",
-      "right": "8x"
-    },
-    "cells": [
-      {
-        "type": "text_cell_view",
-        "content": {
-          "text": "Сегодня, в Вене, Австрия",
-          "typeface": "headline3",
-          "text_color": "default"
-        }
-      },
-      {
-        "type": "details_cell_view",
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
         "paddings": {
-          "top": "6x"
+          "bottom": "8x",
+          "top": "8x",
+          "left": "8x",
+          "right": "8x"
         },
-        "details": [
+        "cells": [
           {
-            "type": "detail_right_view",
-            "info_and_icon": {
-              "info": {
-                "text": "+20°",
-                "typeface": "headline1",
-                "text_color": "default",
-                "max_lines": 1
-              },
-              "icon": {
-                "address": {
-                  "type": "url",
-                  "url": "https://cs5-2.4pda.to/6380085.png"
+            "type": "text_cell_view",
+            "content": {
+              "text": "Сегодня, в Вене, Австрия",
+              "typeface": "headline3",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "details_cell_view",
+            "paddings": {
+              "top": "6x"
+            },
+            "details": [
+              {
+                "type": "detail_right_view",
+                "info_and_icon": {
+                  "info": {
+                    "text": "+20°",
+                    "typeface": "headline1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "medium",
+                      "height": "medium"
+                    },
+                    "margins": {
+                      "left": "4x"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Ощущается как +3, пасмурно, небольшой дождь",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "max_lines": 0
+            },
+            "paddings": {
+              "top": "2x"
+            }
+          },
+          {
+            "type": "details_cell_view",
+            "paddings": {
+              "top": "10x"
+            },
+            "details": [
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "ранним утром",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
                 },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
+                "info_and_icon": {
+                  "info": {
+                    "text": "+6°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
+                },
+                "detail_position": "bottom"
+              },
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "утром",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
+                },
+                "info_and_icon": {
+                  "info": {
+                    "text": "+10°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
                 },
                 "margins": {
                   "left": "4x"
-                }
+                },
+                "detail_position": "bottom"
+              },
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "днем",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
+                },
+                "info_and_icon": {
+                  "info": {
+                    "text": "+29°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
+                },
+                "margins": {
+                  "left": "4x"
+                },
+                "detail_position": "bottom"
+              },
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "в обед",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
+                },
+                "info_and_icon": {
+                  "info": {
+                    "text": "+46°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
+                },
+                "margins": {
+                  "left": "4x"
+                },
+                "detail_position": "bottom"
+              },
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "в подник",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
+                },
+                "info_and_icon": {
+                  "info": {
+                    "text": "+30°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
+                },
+                "margins": {
+                  "left": "4x"
+                },
+                "detail_position": "bottom"
+              },
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "вечером",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
+                },
+                "info_and_icon": {
+                  "info": {
+                    "text": "+20°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
+                },
+                "margins": {
+                  "left": "4x"
+                },
+                "detail_position": "bottom"
+              },
+              {
+                "type": "detail_right_view",
+                "detail": {
+                  "text": "ночью",
+                  "typeface": "caption",
+                  "text_color": "secondary",
+                  "max_lines": 1
+                },
+                "info_and_icon": {
+                  "info": {
+                    "text": "+2°",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 1
+                  },
+                  "icon": {
+                    "address": {
+                      "type": "url",
+                      "url": "https://cs5-2.4pda.to/6380085.png"
+                    },
+                    "size": {
+                      "width": "small",
+                      "height": "small"
+                    },
+                    "margins": {
+                      "left": "2x",
+                      "right": "9x"
+                    }
+                  }
+                },
+                "detail_position": "bottom"
               }
+            ]
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "По данным Gismeteo",
+              "typeface": "footnote1",
+              "text_color": "secondary"
+            },
+            "paddings": {
+              "top": "10x"
             }
           }
         ]
-      },
-      {
-        "type": "text_cell_view",
-        "content": {
-          "text": "Ощущается как +3, пасмурно, небольшой дождь",
-          "typeface": "footnote1",
-          "text_color": "secondary",
-          "max_lines": 0
-        },
-        "paddings": {
-          "top": "2x"
-        }
-      },
-      {
-        "type": "details_cell_view",
-        "paddings": {
-          "top": "10x"
-        },
-        "details": [
-          {
-            "type": "detail_right_view",
-            "detail": {
-              "text": "ранним утром",
-              "typeface": "caption",
-              "text_color": "secondary",
-              "max_lines": 1
-            },
-            "info_and_icon": {
-              "info": {
-                "text": "+6°",
-                "typeface": "body1",
-                "text_color": "default",
-                "max_lines": 1
-              },
-              "icon": {
-                "address": {
-                  "type": "url",
-                  "url": "https://cs5-2.4pda.to/6380085.png"
-                },
-                "size": {
-                  "width": "small",
-                  "height": "small"
-                },
-                "margins": {
-                  "left": "2x",
-                  "right": "9x"
-                }
-              }
-            },
-            "detail_position": "bottom"
-          },
-          {
-            "type": "detail_right_view",
-            "detail": {
-              "text": "утром",
-              "typeface": "caption",
-              "text_color": "secondary",
-              "max_lines": 1
-            },
-            "info_and_icon": {
-              "info": {
-                "text": "+10°",
-                "typeface": "body1",
-                "text_color": "default",
-                "max_lines": 1
-              },
-              "icon": {
-                "address": {
-                  "type": "url",
-                  "url": "https://cs5-2.4pda.to/6380085.png"
-                },
-                "size": {
-                  "width": "small",
-                  "height": "small"
-                },
-                "margins": {
-                  "left": "2x",
-                  "right": "9x"
-                }
-              }
-            },
-            "margins": {
-             "left": "4x"
-           },
-           "detail_position": "bottom"
-         },
-         {
-          "type": "detail_right_view",
-          "detail": {
-            "text": "днем",
-            "typeface": "caption",
-            "text_color": "secondary",
-            "max_lines": 1
-          },
-          "info_and_icon": {
-            "info": {
-              "text": "+29°",
-              "typeface": "body1",
-              "text_color": "default",
-              "max_lines": 1
-            },
-            "icon": {
-              "address": {
-                "type": "url",
-                "url": "https://cs5-2.4pda.to/6380085.png"
-              },
-              "size": {
-                "width": "small",
-                "height": "small"
-              },
-              "margins": {
-                "left": "2x",
-                "right": "9x"
-              }
-            }
-          },
-          "margins": {
-           "left": "4x"
-         },
-         "detail_position": "bottom"
-       },
-       {
-        "type": "detail_right_view",
-        "detail": {
-          "text": "в обед",
-          "typeface": "caption",
-          "text_color": "secondary",
-          "max_lines": 1
-        },
-        "info_and_icon": {
-          "info": {
-            "text": "+46°",
-            "typeface": "body1",
-            "text_color": "default",
-            "max_lines": 1
-          },
-          "icon": {
-            "address": {
-              "type": "url",
-              "url": "https://cs5-2.4pda.to/6380085.png"
-            },
-            "size": {
-              "width": "small",
-              "height": "small"
-            },
-            "margins": {
-              "left": "2x",
-              "right": "9x"
-            }
-          }
-        },
-        "margins": {
-         "left": "4x"
-       },
-       "detail_position": "bottom"
-     },
-     {
-      "type": "detail_right_view",
-      "detail": {
-        "text": "в подник",
-        "typeface": "caption",
-        "text_color": "secondary",
-        "max_lines": 1
-      },
-      "info_and_icon": {
-        "info": {
-          "text": "+30°",
-          "typeface": "body1",
-          "text_color": "default",
-          "max_lines": 1
-        },
-        "icon": {
-          "address": {
-            "type": "url",
-            "url": "https://cs5-2.4pda.to/6380085.png"
-          },
-          "size": {
-            "width": "small",
-            "height": "small"
-          },
-          "margins": {
-            "left": "2x",
-            "right": "9x"
-          }
-        }
-      },
-      "margins": {
-       "left": "4x"
-     },
-     "detail_position": "bottom"
-   },
-   {
-    "type": "detail_right_view",
-    "detail": {
-      "text": "вечером",
-      "typeface": "caption",
-      "text_color": "secondary",
-      "max_lines": 1
-    },
-    "info_and_icon": {
-      "info": {
-        "text": "+20°",
-        "typeface": "body1",
-        "text_color": "default",
-        "max_lines": 1
-      },
-      "icon": {
-        "address": {
-          "type": "url",
-          "url": "https://cs5-2.4pda.to/6380085.png"
-        },
-        "size": {
-          "width": "small",
-          "height": "small"
-        },
-        "margins": {
-          "left": "2x",
-          "right": "9x"
-        }
-      }
-    },
-    "margins": {
-     "left": "4x"
-   },
-   "detail_position": "bottom"
- },
- {
-  "type": "detail_right_view",
-  "detail": {
-    "text": "ночью",
-    "typeface": "caption",
-    "text_color": "secondary",
-    "max_lines": 1
-  },
-  "info_and_icon": {
-    "info": {
-      "text": "+2°",
-      "typeface": "body1",
-      "text_color": "default",
-      "max_lines": 1
-    },
-    "icon": {
-      "address": {
-        "type": "url",
-        "url": "https://cs5-2.4pda.to/6380085.png"
-      },
-      "size": {
-        "width": "small",
-        "height": "small"
-      },
-      "margins": {
-        "left": "2x",
-        "right": "9x"
       }
     }
-  },
-  "detail_position": "bottom"
-}
-]
-},
-{
-  "type": "text_cell_view",
-  "content": {
-    "text": "По данным Gismeteo",
-    "typeface": "footnote1",
-    "text_color": "secondary"
-  },
-  "paddings": {
-    "top": "10x"
-  }
-}
-]
-}
+  ]
 }

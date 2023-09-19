@@ -1,11 +1,15 @@
 {
-    "command": {
+  "items": [
+    {
+      "command": {
         "type": "request_permissions",
         "permissions": [
-            "geo",
-            "read_contacts",
-            "record_audio",
-            "push"
+          "geo",
+          "read_contacts",
+          "record_audio",
+          "push"
         ]
+      }
     }
+  ]
 }

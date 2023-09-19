@@ -1,3 +1,7 @@
 {
-    "showText": "привет, это showText"
+  "items": [
+    {
+      "showText": "привет, это showText"
+    }
+  ]
 }

@@ -1,32 +1,36 @@
 {
-   "card":{
-      "type":"p2p_contact_selection",
-      "title":"Контакты",
-      "contacts":[
-         {
-            "id":1004,
+  "items": [
+    {
+      "card": {
+        "type": "p2p_contact_selection",
+        "title": "Контакты",
+        "contacts": [
+          {
+            "id": 1004,
             "accessibility": "A11y: Валера Агафон",
-            "action":{
-               "send_contact_phone":1004,
-               "template":"Валера Агафон\n[[placeholder]]"
+            "action": {
+              "send_contact_phone": 1004,
+              "template": "Валера Агафон\n[[placeholder]]"
             }
-         },
-         {
-            "id":1002,
+          },
+          {
+            "id": 1002,
             "accessibility": "A11y: Валера Булка",
-            "action":{
-               "send_contact_phone":1002,
-               "template":"Валера Булка\n[[placeholder]]"
+            "action": {
+              "send_contact_phone": 1002,
+              "template": "Валера Булка\n[[placeholder]]"
             }
-         },
-         {
-            "id":1000,
+          },
+          {
+            "id": 1000,
             "accessibility": "A11y: Валера Лапа",
-            "action":{
-               "send_contact_phone":1000,
-               "template":"Валера Лапа\n[[placeholder]]"
+            "action": {
+              "send_contact_phone": 1000,
+              "template": "Валера Лапа\n[[placeholder]]"
             }
-         }
-      ]
-   }
+          }
+        ]
+      }
+    }
+  ]
 }

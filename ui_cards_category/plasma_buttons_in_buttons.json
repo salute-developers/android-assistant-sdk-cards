@@ -1,264 +1,232 @@
 {
-    "items":
-    [
-        {
-            "card":
-            {
-                "type": "list_card",
-                "paddings":
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x",
+          "bottom": "6x"
+        },
+        "cells": [
+          {
+            "type": "button_cell_view",
+            "content": {
+              "text": "old button",
+              "typeface": "text1",
+              "style": "primary",
+              "type": "accept",
+              "actions": [
                 {
-                    "left": "8x",
-                    "top": "6x",
-                    "right": "8x",
-                    "bottom": "6x"
-                },
-                "cells":
-                [
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "text": "old button",
-                            "typeface": "text1",
-                            "style": "default",
-                            "type": "accept", 
-                            "actions":
-                            [
-                                {
-                                    "type": "deep_link",
-                                    "deep_link": "https://google.com"
-                                }
-                            ],
-                            "style": "primary"
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    },
-                    {
-                        "type": "left_right_cell_view",
-                        "left": {
-                            "type": "plasma_button_cell_view",
-                            "margins": {
-                                "top": "2x"
-                            },
-                            "content": {
-                                "text": "Default - secondary, rounded",
-                                "actions": [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
-                                    }
-                                ]
-                            }
-                        },
-                        "right": {
-                            "type": "plasma_button_cell_view",
-                            "content": {
-                                "text": "Style - checked, circle",
-                                "rounded_corners": "circle",
-                                "style": "checked",
-                                "actions": [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                     {
-                        "type": "left_right_cell_view",
-                        "left": {
-                            "type": "plasma_button_cell_view",
-                            "margins": {
-                                "top": "2x"
-                            },
-                            "content": {
-                                "text": "Default - secondary, rounded",
-                                "actions": [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
-                                    }
-                                ]
-                            }
-                        },
-                        "right": {
-                            "type": "disclosure_right_view"
-                        }
-                    },
-                    {
-                        "type": "left_right_cell_view",
-                        "left": {
-                            "type": "plasma_button_cell_view",
-                            "margins": {
-                                "top": "2x"
-                            },
-                            "content": {
-                                "icon": {
-                                       "type": "local",
-                                       "identificator": "atm_banknote"
-                                },
-                                "text": "Default - secondary, rounded",
-                                "actions": [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
-                                    }
-                                ]
-                            }
-                        },
-                        "right": {
-                            "type": "disclosure_right_view"
-                        }
-                    },
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "plasma_button":
-                            {
-                                "text": "primary",
-                                "icon": {
-                                       "type": "local",
-                                       "identificator": "atm_banknote"
-                                },
-                                "actions":
-                                [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://google.com"
-                                    }
-                                ],
-                                "style": "primary"
-                            }
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    },
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "plasma_button":
-                            {
-                                "text": "secondary",
-                                "actions":
-                                [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://google.com"
-                                    }
-                                ],
-                                "style": "secondary"
-                            }
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    },
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "plasma_button":
-                            {
-                                "text": "warning",
-                                "actions":
-                                [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://google.com"
-                                    }
-                                ],
-                                "style": "warning"
-                            }
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    },
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "plasma_button":
-                            {
-                                "text": "checked",
-                                "actions":
-                                [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://google.com"
-                                    }
-                                ],
-                                "style": "checked"
-                            }
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    },
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "plasma_button":
-                            {
-                                "text": "critical",
-                                "actions":
-                                [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://google.com"
-                                    }
-                                ],
-                                "style": "critical"
-                            }
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    },
-                    {
-                        "type": "button_cell_view",
-                        "content":
-                        {
-                            "plasma_button":
-                            {
-                                "text": "clear",
-                                "actions":
-                                [
-                                    {
-                                        "type": "deep_link",
-                                        "deep_link": "https://google.com"
-                                    }
-                                ],
-                                "style": "clear"
-                            }
-                        },
-                        "paddings":
-                        {
-                            "top": "2x",
-                            "bottom": "2x"
-                        }
-                    }
-                ]
+                  "type": "deep_link",
+                  "deep_link": "https://google.com"
+                }
+              ]
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
             }
-        }
-    ]
+          },
+          {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "plasma_button_cell_view",
+              "margins": {
+                "top": "2x"
+              },
+              "content": {
+                "text": "Default - secondary, rounded",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
+              }
+            },
+            "right": {
+              "type": "plasma_button_cell_view",
+              "content": {
+                "text": "Style - checked, circle",
+                "rounded_corners": "circle",
+                "style": "checked",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "plasma_button_cell_view",
+              "margins": {
+                "top": "2x"
+              },
+              "content": {
+                "text": "Default - secondary, rounded",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
+              }
+            },
+            "right": {
+              "type": "disclosure_right_view"
+            }
+          },
+          {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "plasma_button_cell_view",
+              "margins": {
+                "top": "2x"
+              },
+              "content": {
+                "icon": {
+                  "type": "local",
+                  "identificator": "atm_banknote"
+                },
+                "text": "Default - secondary, rounded",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
+              }
+            },
+            "right": {
+              "type": "disclosure_right_view"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "primary",
+                "icon": {
+                  "type": "local",
+                  "identificator": "atm_banknote"
+                },
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "style": "primary"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "secondary",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "style": "secondary"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "warning",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "style": "warning"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "checked",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "style": "checked"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "critical",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "style": "critical"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "clear",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://google.com"
+                  }
+                ],
+                "style": "clear"
+              }
+            },
+            "paddings": {
+              "top": "2x",
+              "bottom": "2x"
+            }
+          }
+        ]
+      }
+    }
+  ]
 }

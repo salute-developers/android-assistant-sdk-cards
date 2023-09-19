@@ -1,58 +1,62 @@
 {
-  "card": {
-    "type": "list_card",
-    "cells": [
-      {
-        "type": "left_right_cell_view",
-        "paddings": {
-          "left": "8x",
-          "top": "6x",
-          "right": "4x",
-          "bottom": "6x"
-        },
-        "left": {
-          "type": "simple_left_view",
-          "icon": {
-            "address": {
-              "type": "local",
-              "identificator": "between_accounts"
-            },
-            "size": {
-              "width": "medium",
-              "height": "medium"
-            },
-            "margins": {
-              "right": "6x"
-            }
-          },
-          "icon_vertical_gravity": "center",
-          "texts": {
-            "title": {
-              "text": "Между своими счетами",
-              "typeface": "body1",
-              "text_color": "default"
-            },
-            "subtitle": {
-              "text": "Сбербанка и других банков",
-              "typeface": "footnote1",
-              "text_color": "secondary",
-              "margins": {
-                "top": "1x"
-              }
-            }
-          }
-        },
-        "right": {
-          "type": "disclosure_right_view",
-          "margins": {}
-        },
-        "actions": [
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
           {
-            "type": "deep_link",
-            "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account"
+            "type": "left_right_cell_view",
+            "paddings": {
+              "left": "8x",
+              "top": "6x",
+              "right": "4x",
+              "bottom": "6x"
+            },
+            "left": {
+              "type": "simple_left_view",
+              "icon": {
+                "address": {
+                  "type": "local",
+                  "identificator": "between_accounts"
+                },
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
+                },
+                "margins": {
+                  "right": "6x"
+                }
+              },
+              "icon_vertical_gravity": "center",
+              "texts": {
+                "title": {
+                  "text": "Между своими счетами",
+                  "typeface": "body1",
+                  "text_color": "default"
+                },
+                "subtitle": {
+                  "text": "Сбербанка и других банков",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "margins": {
+                    "top": "1x"
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "disclosure_right_view",
+              "margins": {}
+            },
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account"
+              }
+            ]
           }
         ]
       }
-    ]
-  }
+    }
+  ]
 }

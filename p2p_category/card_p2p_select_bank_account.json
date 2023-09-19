@@ -1,34 +1,38 @@
 {
-    "card": {
+  "items": [
+    {
+      "card": {
         "type": "p2p_bank_account_selection",
         "title": "Счет списания",
         "bank_accounts": [
-            {
-                "name": "MasterCard",
-                "number": "•••• 0000",
-                "balance": "12345,67 \u20BD",
-                "action": {
-                    "text": "Выбрать MasterCard •••• 0000"
-                },
-                "icon_local": "card_mc_gold"
+          {
+            "name": "MasterCard",
+            "number": "•••• 0000",
+            "balance": "12345,67 ₽",
+            "action": {
+              "text": "Выбрать MasterCard •••• 0000"
             },
-            {
-                "name": "Visa Infinite",
-                "number": "•••• 0001",
-                "balance": "23456,78 \u20BD",
-                "action": {
-                    "text": "Выбрать Visa •••• 0001"
-                },
-                "icon_local": "card_mc_null"
+            "icon_local": "card_mc_gold"
+          },
+          {
+            "name": "Visa Infinite",
+            "number": "•••• 0001",
+            "balance": "23456,78 ₽",
+            "action": {
+              "text": "Выбрать Visa •••• 0001"
             },
-            {
-                "name": "Visa Platinum",
-                "number": "•••• 0002",
-                "balance": "45678,90 \u20BD",
-                "action": {
-                    "text": "Выбрать Visa •••• 0002"
-                }
+            "icon_local": "card_mc_null"
+          },
+          {
+            "name": "Visa Platinum",
+            "number": "•••• 0002",
+            "balance": "45678,90 ₽",
+            "action": {
+              "text": "Выбрать Visa •••• 0002"
             }
+          }
         ]
+      }
     }
+  ]
 }

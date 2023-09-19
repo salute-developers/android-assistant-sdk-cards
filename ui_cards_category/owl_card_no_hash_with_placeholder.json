@@ -11,8 +11,8 @@
               "size": {
                 "width": "resizable",
                 "aspect_ratio": 1.45
-              }, 
-              "placeholder":"clock"
+              },
+              "placeholder": "clock"
             }
           }
         ]

@@ -1,7 +1,11 @@
 {
-    "command": {
+  "items": [
+    {
+      "command": {
         "type": "request_contact_phone",
         "id": 1000,
         "timeout": 1
+      }
     }
+  ]
 }

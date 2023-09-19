@@ -1,10 +1,14 @@
 {
-  "command": {
-    "type": "request_contact_phones",
-    "ids": [
-      1000,
-      1001,
-      1002
-    ]
-  }
+  "items": [
+    {
+      "command": {
+        "type": "request_contact_phones",
+        "ids": [
+          1000,
+          1001,
+          1002
+        ]
+      }
+    }
+  ]
 }

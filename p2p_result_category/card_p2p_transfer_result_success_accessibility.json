@@ -1,20 +1,24 @@
 {
-  "card": {
-    "type": "p2p_transfer_result",
-    "title": "Перевод выполнен",
-    "addressee": "Илья Богданович",
-    "transfer_amount": "1010 ₽",
-    "style": "success",
-    "accessibility": "A11y: перевод Илье Богдановичу выполнен успешно",
-    "action_button": {
-      "text": "Подробнее",
-      "accessibility": "A11y: подробности перевода",
-      "action": {
-        "deep_link": "tel:+78001234567"
+  "items": [
+    {
+      "card": {
+        "type": "p2p_transfer_result",
+        "title": "Перевод выполнен",
+        "addressee": "Илья Богданович",
+        "transfer_amount": "1010 ₽",
+        "style": "success",
+        "accessibility": "A11y: перевод Илье Богдановичу выполнен успешно",
+        "action_button": {
+          "text": "Подробнее",
+          "accessibility": "A11y: подробности перевода",
+          "action": {
+            "deep_link": "tel:+78001234567"
+          }
+        },
+        "action": {
+          "deep_link": "https://sberbank.ru"
+        }
       }
-    },
-    "action": {
-      "deep_link": "https://sberbank.ru"
     }
-  }
+  ]
 }

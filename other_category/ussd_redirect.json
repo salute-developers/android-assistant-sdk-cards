@@ -1,67 +1,71 @@
 {
-  "card": {
-    "type": "list_card",
-    "cells": [
-      {
-        "type": "text_cell_view",
-        "content": {
-          "text": "**62* переадресация при недоступности абонента",
-          "typeface": "button1",
-          "text_color": "brand",
-          "actions": [
-            {
-              "type": "deep_link",
-              "deep_link": "voiceassistantsdk://ussd?code=**62*%2B79013874728%23"
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "**62* переадресация при недоступности абонента",
+              "typeface": "button1",
+              "text_color": "brand",
+              "actions": [
+                {
+                  "type": "deep_link",
+                  "deep_link": "voiceassistantsdk://ussd?code=**62*%2B79013874728%23"
+                }
+              ]
+            },
+            "paddings": {
+              "bottom": "12x",
+              "left": "8x",
+              "top": "12x",
+              "right": "8x"
             }
-          ]
-        },
-        "paddings": {
-          "bottom": "12x",
-          "left": "8x",
-          "top": "12x",
-          "right": "8x"
-        }
-      },
-      {
-        "type": "text_cell_view",
-        "content": {
-          "text": "**67* переадресация когда абонент занят",
-          "typeface": "button1",
-          "text_color": "brand",
-          "actions": [
-            {
-              "type": "deep_link",
-              "deep_link": "voiceassistantsdk://ussd?code=**67*%2B79013874728%23"
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "**67* переадресация когда абонент занят",
+              "typeface": "button1",
+              "text_color": "brand",
+              "actions": [
+                {
+                  "type": "deep_link",
+                  "deep_link": "voiceassistantsdk://ussd?code=**67*%2B79013874728%23"
+                }
+              ]
+            },
+            "paddings": {
+              "bottom": "12x",
+              "left": "8x",
+              "top": "12x",
+              "right": "8x"
             }
-          ]
-        },
-        "paddings": {
-          "bottom": "12x",
-          "left": "8x",
-          "top": "12x",
-          "right": "8x"
-        }
-      },
-      {
-        "type": "text_cell_view",
-        "content": {
-          "text": "##002# отключение переадресацией",
-          "typeface": "button1",
-          "text_color": "brand",
-          "actions": [
-            {
-              "type": "deep_link",
-              "deep_link": "voiceassistantsdk://ussd?code=%23%23002%23"
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "##002# отключение переадресацией",
+              "typeface": "button1",
+              "text_color": "brand",
+              "actions": [
+                {
+                  "type": "deep_link",
+                  "deep_link": "voiceassistantsdk://ussd?code=%23%23002%23"
+                }
+              ]
+            },
+            "paddings": {
+              "bottom": "12x",
+              "left": "8x",
+              "top": "12x",
+              "right": "8x"
             }
-          ]
-        },
-        "paddings": {
-          "bottom": "12x",
-          "left": "8x",
-          "top": "12x",
-          "right": "8x"
-        }
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }

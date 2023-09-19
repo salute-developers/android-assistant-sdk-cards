@@ -1,34 +1,38 @@
 {
-  "card": {
-    "type": "widget_title_card",
-    "cell": {
-      "type": "left_right_cell_view",
-      "left": {
-        "type": "simple_left_view",
-        "title": {
-          "text": "Новости",
-          "typeface": "body3",
-          "text_color": "default"
+  "items": [
+    {
+      "card": {
+        "type": "widget_title_card",
+        "cell": {
+          "type": "left_right_cell_view",
+          "left": {
+            "type": "simple_left_view",
+            "title": {
+              "text": "Новости",
+              "typeface": "body3",
+              "text_color": "default"
+            }
+          },
+          "right": {
+            "type": "detail_right_view",
+            "info_and_icon": {
+              "icon": {
+                "address": {
+                  "type": "local",
+                  "identificator": "ellipsis"
+                },
+                "size": {
+                  "width": "small",
+                  "height": "small"
+                },
+                "tint_color": "solid_white"
+              }
+            },
+            "vertical_gravity": "center"
+          },
+          "log_id": "custom_log_id"
         }
-      },
-      "right": {
-        "type": "detail_right_view",
-        "info_and_icon": {
-          "icon": {
-            "address": {
-              "type": "local",
-              "identificator": "ellipsis"
-            },
-            "size": {
-              "width": "small",
-              "height": "small"
-            },
-            "tint_color": "solid_white"
-          }
-        },
-        "vertical_gravity": "center"
-      },
-      "log_id": "custom_log_id"
+      }
     }
-  }
+  ]
 }

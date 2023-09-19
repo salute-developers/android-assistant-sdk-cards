@@ -1,9 +1,9 @@
 {
- "items": [
-   {
-     "command": {
-       "type": "invalidate_cache"
-     }
-   }
- ]
+  "items": [
+    {
+      "command": {
+        "type": "invalidate_cache"
+      }
+    }
+  ]
 }
