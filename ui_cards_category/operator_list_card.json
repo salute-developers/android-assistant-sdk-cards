@@ -18,56 +18,47 @@
             }
           },
           {
-            "type": "left_right_cell_view",
+            "type": "operator_chat_cell_view",
             "paddings": {
               "left": "8x",
-              "top": "6x",
+              "top": "8x",
               "right": "8x"
             },
-            "left": {
-              "type": "simple_left_view",
-              "icon": {
-                "address": {
-                  "type": "url",
-                  "url": "https://cdn.sberdevices.ru/catalog/images/dialog_card_operator_icon.png"
-                },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                },
-                "margins": {
-                  "top": "6x",
-                  "right": "6x",
-                  "bottom": "6x"
-                }
+            "icon": {
+              "address": {
+                "type": "url",
+                "url": "https://cdn.sberdevices.ru/catalog/images/dialog_card_operator_icon.png"
               },
-              "icon_vertical_gravity": "center"
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "right": "6x"
+              }
             },
-            "right": {
-              "type": "operator_chat_cell_view",
-              "placeholder": {
-                "text": "Оператор скоро присоединится",
+            "placeholder": {
+              "text": "Оператор скоро присоединится",
+              "typeface": "body1",
+              "text_color": "default"
+            },
+            "title": {
+              "style": {
+                "typeface": "footnote1",
+                "text_color": "secondary"
+              }
+            },
+            "subtitle": {
+              "style": {
                 "typeface": "body1",
                 "text_color": "default"
               },
-              "title": {
-                "style": {
-                  "typeface": "footnote1",
-                  "text_color": "secondary"
-                }
-              },
-              "subtitle": {
-                "style": {
-                  "typeface": "body1",
-                  "text_color": "default"
-                },
-                "margins": {
-                  "top": "2x"
-                }
-              },
-              "badge": {
-                "color": "solid_warning"
+              "margins": {
+                "top": "2x"
               }
+            },
+            "badge": {
+              "color": "solid_warning"
             }
           },
           {
