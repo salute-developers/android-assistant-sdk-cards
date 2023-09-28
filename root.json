@@ -997,7 +997,7 @@
       ]
     },
     {
-      "Текст":[
+      "Markdown разметка":[
         {
           "Текст с разметкой":[
             {
@@ -1009,6 +1009,48 @@
           "Текста с разметкой":[
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubbles_with_markdown.json"
+            }
+          ]
+        },
+        {
+          "За месяц вы потратили (headline1)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_headline1_markdown.json"
+            }
+          ]
+        },
+        {
+          "Чтобы сэкономить (headline6)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_headline6_markdown.json"
+            }
+          ]
+        },
+        {
+          "Варианты действий (unordered list minuses)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_unordered_list_minuses_markdown.json"
+            }
+          ]
+        },
+        {
+          "Варианты действий (unordered list pluses)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_unordered_list_pluses_markdown.json"
+            }
+          ]
+        },
+        {
+          "Варианты действий (unordered list asterisks)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_unordered_list_asterisks_markdown.json"
+            }
+          ]
+        },
+        {
+          "Варианты действий (ordered list)": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_ordered_list_markdown.json"
             }
           ]
         }
