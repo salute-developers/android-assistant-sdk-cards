@@ -457,6 +457,13 @@
           ]
         },
         {
+          "Карточка с plasma цветами": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/plasma_text_colors.json"
+            }
+          ]
+        },
+        {
           "Карточка с кнопками":[
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/buttons.json"
