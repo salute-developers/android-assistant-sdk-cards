@@ -1,0 +1,89 @@
+{
+    "debug_info":
+    {},
+    "additional_apps_payload":
+    [],
+    "assistant_items":
+    [],
+    "auto_listening": false,
+    "projectName": "launcher",
+    "app_info":
+    {
+        "projectId": "4db82831-e57b-42ad-b45e-323964ae01b4",
+        "applicationId": "3e97a373-15f6-4758-996b-2f1169a2896b",
+        "appversionId": "12576d99-ab1f-402d-bf77-77a139fc1d3f",
+        "systemName": "launcher",
+        "frontendEndpoint": null,
+        "frontendType": "EMBEDDED_APP",
+        "apkInfo":
+        {},
+        "ageLimit": 0,
+        "affiliationType": "INTERNAL",
+        "frontendStateId": "4db82831-e57b-42ad-b45e-323964ae01b4_3e97a373-15f6-4758-996b-2f1169a2896b_12576d99-ab1f-402d-bf77-77a139fc1d3f",
+        "securityAccess":
+        {},
+        "appearance":
+        {
+            "header":
+            {
+                "title": "launcher"
+            }
+        },
+        "allowFastRunApp": false,
+        "availableOrientations":
+        []
+    },
+    "activate_app_info": true,
+    "items":
+    [
+        {
+            "bubble":
+            {
+                "markdown": true,
+                "text": "*Приветствие короткой шторки*"
+            }
+        }
+    ],
+    "asr_hints":
+    {
+        "words":
+        [
+            "Расходы за неделю",
+            "Расходы за месяц",
+            "Расходы за год"
+        ]
+    },
+    "suggestions":
+    {
+        "buttons":
+        [
+            {
+                "title": "Расходы за неделю",
+                "action":
+                {
+                    "type": "text",
+                    "text": "Расходы за неделю",
+                    "should_send_to_backend": false
+                }
+            },
+            {
+                "title": "Расходы за месяц",
+                "action":
+                {
+                    "type": "text",
+                    "text": "Расходы за месяц",
+                    "should_send_to_backend": false
+                }
+            },
+            {
+                "title": "Расходы за год",
+                "action":
+                {
+                    "type": "text",
+                    "text": "Расходы загод",
+                    "should_send_to_backend": false
+                }
+            }
+        ]
+    }
+}
