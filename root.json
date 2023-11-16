@@ -492,6 +492,13 @@
           ]
         },
         {
+          "Киану Ривз от Embedded App":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/keanu_reeves_embedded_app.json"
+            }
+          ]
+        },
+        {
           "Картинка с test.stat.online.sberbank.ru с self signed сертификатом":[
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/sber_ca_image.json"
