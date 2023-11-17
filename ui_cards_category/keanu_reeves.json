@@ -1,4 +1,14 @@
 {
+    "app_info":
+    {
+        "projectId": "d929986a-611a-2ba0-6174-1928c99600a5",
+        "applicationId": "7c4e23bf-cd93-b57e-874b-d9fc1b35f93d",
+        "appversionId": "26d0bb2e-45d6-a276-f70e-6c016d1f9cff",
+        "frontendEndpoint": "None",
+        "frontendType": "DIALOG",
+        "systemName": "assistant",
+        "frontendStateId": "d929986a-611a-2ba0-6174-1928c99600a5_7c4e23bf-cd93-b57e-874b-d9fc1b35f93d_26d0bb2e-45d6-a276-f70e-6c016d1f9cff"
+    },
     "items":
     [
         {
