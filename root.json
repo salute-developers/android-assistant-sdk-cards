@@ -1495,7 +1495,7 @@
     {
       "Карточки c A11y":[
         {
-          "Киану Ривз":[
+          "Киану Ривз c A11y":[
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category_accessibility/keanu_reeves.json"
             }
@@ -1509,7 +1509,7 @@
           ]
         },
         {
-          "Киану Ривз Can be disabled":[
+          "Киану Ривз Can be disabled c A11y":[
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category_accessibility/keanu_reeves_can_be_disabled.json"
             }
