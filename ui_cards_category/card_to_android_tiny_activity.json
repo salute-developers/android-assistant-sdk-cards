@@ -1,0 +1,113 @@
+{
+    "app_info":
+    {
+        "projectId": "d929986a-611a-2ba0-6174-1928c99600a5",
+        "applicationId": "7c4e23bf-cd93-b57e-874b-d9fc1b35f93d",
+        "appversionId": "26d0bb2e-45d6-a276-f70e-6c016d1f9cff",
+        "frontendEndpoint": "None",
+        "frontendType": "DIALOG",
+        "systemName": "assistant",
+        "frontendStateId": "d929986a-611a-2ba0-6174-1928c99600a5_7c4e23bf-cd93-b57e-874b-d9fc1b35f93d_26d0bb2e-45d6-a276-f70e-6c016d1f9cff"
+    },
+    "items":
+    [
+        {
+            "card":
+            {
+                "type": "list_card",
+                "paddings":
+                {
+                    "bottom": "12x"
+                },
+                "cells":
+                [
+                    {
+                        "type": "image_cell_view",
+                        "content":
+                        {
+                            "url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tiny.png",
+                            "hash": "9396fb9ea05ae23017f35c56343f3675",
+                            "placeholder": "placeholder",
+                            "height": 192,
+                            "actions":
+                            [
+                                {
+                                    "type": "deep_link",
+                                    "deep_link": "tiny://"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "text_cell_view",
+                        "content":
+                        {
+                            "text": "Это Tiny",
+                            "typeface": "title1",
+                            "text_color": "default"
+                        },
+                        "paddings":
+                        {
+                            "left": "8x",
+                            "top": "6x",
+                            "right": "8x"
+                        }
+                    },
+                    {
+                        "type": "text_cell_view",
+                        "content":
+                        {
+                            "text": "1000 лет",
+                            "typeface": "footnote1",
+                            "text_color": "secondary"
+                        },
+                        "paddings":
+                        {
+                            "left": "8x",
+                            "top": "4x",
+                            "right": "8x"
+                        }
+                    },
+                    {
+                        "type": "text_cell_view",
+                        "content":
+                        {
+                            "text": "Персонаж Dota 2",
+                            "typeface": "body2",
+                            "text_color": "default",
+                            "max_lines": 0
+                        },
+                        "paddings":
+                        {
+                            "left": "8x",
+                            "top": "6x",
+                            "right": "8x"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "suggestions":
+    {
+        "buttons":
+        [
+            {
+                "title": "Кредит",
+                "action":
+                {
+                    "text": "Оформить заявку на кредит",
+                    "type": "text"
+                }
+            },
+            {
+                "title": "Ипотека",
+                "action":
+                {
+                    "text": "Оформить заявку на ипотеку",
+                    "type": "text"
+                }
+            }
+        ]
+    }
+}
