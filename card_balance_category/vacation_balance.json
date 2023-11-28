@@ -4,63 +4,72 @@
       "card": {
         "type": "list_card",
         "paddings": {
-          "top": "4x",
-          "bottom": "4x"
+          "top": "9x",
+          "bottom": "12x",
+          "left": "8x",
+          "right": "8x"
         },
         "cells": [
           {
             "type": "text_cell_view",
             "content": {
-              "text": "MasterCard Mass",
-              "typeface": "title1",
-              "text_color": "default"
+              "text": "Прогноз отпускных за ежегодный отпуск",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 2
             },
             "paddings": {
-              "left": "8x",
-              "top": "6x",
-              "right": "8x",
-              "bottom": "6x"
+              "bottom": "2x"
             }
           },
           {
-            "type": "left_right_cell_view",
-            "paddings": {
-              "left": "8x",
-              "top": "6x",
-              "right": "8x",
-              "bottom": "6x"
+            "type": "text_cell_view",
+            "content": {
+              "text": "21-28 февраля, 2022",
+              "typeface": "footnote2",
+              "text_color": "secondary"
             },
-            "left": {
-              "type": "fast_answer_left_view",
-              "label": {
-                "text": "••1234",
-                "typeface": "body1",
-                "text_color": "secondary",
-                "margins": {
-                  "bottom": "2x"
-                }
-              },
-              "icon_and_value": {
-                "icon": {
-                  "address": {
-                    "type": "local",
-                    "identificator": "card_mc_black"
-                  },
-                  "size": {
-                    "width": "medium",
-                    "height": "medium"
-                  },
-                  "margins": {
-                    "right": "6x"
-                  }
-                },
-                "value": {
-                  "text": "15 000,93 ₽",
-                  "typeface": "headline1",
-                  "text_color": "default",
-                  "sensitive": true
-                }
-              }
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "18 290,92 ₽*",
+              "typeface": "headline1",
+              "text_color": "default",
+              "sensitive": true
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "До вычета налогов и удержаний",
+              "typeface": "footnote2",
+              "text_color": "success"
+            },
+            "divider": {
+              "style": "default",
+              "size": "d1"
+            },
+            "paddings": {
+              "bottom": "2x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "* Фактическая сумма выплаты может отличаться, если к расчету отпускных изменятся данные. Например, кол-во отработанных дней",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "max_lines": 0
+            },
+            "paddings": {
+              "top": "6x"
             }
           }
         ]
