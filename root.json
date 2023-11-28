@@ -452,6 +452,13 @@
             }
           ]
         },
+        {
+          "Баланс нескольких карт sensitive":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/card_balance_category/few_cards_sensitive.json"
+            }
+          ]
+        },
          {
           "Прогноз отпускных sensitive":[
             {
