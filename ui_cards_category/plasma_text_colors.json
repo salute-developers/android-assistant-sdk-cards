@@ -31,6 +31,27 @@
               "plasma_text_color": "textPrimary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textPrimary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -55,6 +76,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "textSecondary"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textSecondary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -83,6 +125,27 @@
               "plasma_text_color": "textTertiary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textTertiary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -107,6 +170,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "textParagraph"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textParagraph",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -135,6 +219,27 @@
               "plasma_text_color": "textAccent"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textAccent",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -159,6 +264,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "textGradient"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textGradient",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -187,6 +313,27 @@
               "plasma_text_color": "textPositive"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textPositive",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -211,6 +358,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "textWarning"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textWarning",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -239,6 +407,27 @@
               "plasma_text_color": "textNegative"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "textNegative",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -263,6 +452,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onDarkTextPrimary"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextPrimary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -291,6 +501,27 @@
               "plasma_text_color": "onDarkTextSecondary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextSecondary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -315,6 +546,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onDarkTextTertiary"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextTertiary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -343,6 +595,27 @@
               "plasma_text_color": "onDarkTextParagraph"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextParagraph",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -367,6 +640,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onDarkTextAccent"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextAccent",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -395,6 +689,27 @@
               "plasma_text_color": "onDarkTextGradient"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextGradient",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -419,6 +734,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onDarkTextPositive"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextPositive",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -447,6 +783,27 @@
               "plasma_text_color": "onDarkTextWarning"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextWarning",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -471,6 +828,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onDarkTextNegative"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onDarkTextNegative",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -499,6 +877,27 @@
               "plasma_text_color": "onLightTextPrimary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextPrimary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -523,6 +922,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onLightTextSecondary"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextSecondary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -551,6 +971,27 @@
               "plasma_text_color": "onLightTextTertiary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextTertiary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -575,6 +1016,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onLightTextParagraph"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextParagraph",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -603,6 +1065,27 @@
               "plasma_text_color": "onLightTextAccent"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextAccent",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -627,6 +1110,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onLightTextGradient"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextGradient",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -655,6 +1159,27 @@
               "plasma_text_color": "onLightTextPositive"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextPositive",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -679,6 +1204,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "onLightTextWarning"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextWarning",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -707,6 +1253,27 @@
               "plasma_text_color": "onLightTextNegative"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightTextNegative",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -731,6 +1298,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "inverseTextPrimary"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "inverseTextPrimary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
@@ -759,6 +1347,27 @@
               "plasma_text_color": "inverseTextSecondary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "inverseTextSecondary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -785,6 +1394,27 @@
               "plasma_text_color": "inverseTextTertiary"
             }
           }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "inverseTextTertiary",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 64
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
         }
       },
       {
@@ -809,6 +1439,27 @@
               "typeface": "footnote1",
               "text_color": "secondary",
               "plasma_text_color": "inverseTextParagraph"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "inverseTextParagraph",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 32
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
             }
           }
         }
