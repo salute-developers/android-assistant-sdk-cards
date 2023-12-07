@@ -82,6 +82,21 @@
                     }
                   ]
                 }
+              },
+              {
+                "type": "plasma_button_cell_view",
+                "margins": {
+                  "top": "2x"
+                },
+                "content": {
+                  "text": "Plasma button",
+                  "actions": [
+                    {
+                      "type": "text",
+                      "text": "текст"
+                    }
+                  ]
+                }
               }
             ]
           }
