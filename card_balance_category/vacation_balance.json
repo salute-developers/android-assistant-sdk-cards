@@ -50,7 +50,7 @@
             "content": {
               "text": "До вычета налогов и удержаний",
               "typeface": "footnote2",
-              "text_color": "success"
+              "text_color": "brand"
             },
             "divider": {
               "style": "default",
