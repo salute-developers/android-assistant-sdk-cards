@@ -889,6 +889,13 @@
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/ordinary_portrait_landscape_app.json"
             }
           ]
+        },
+        {
+          "Запусти smart app set cookie":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/smart_apps_category/set_cookie.json"
+            }
+          ]
         }
       ]
     },
