@@ -11,6 +11,23 @@
               "url": "https://test.stat.online.sberbank.ru/VA/images/first_session/SberCat_VA2.jpg"
             },
             "type": "image_cell_view"
+          },
+          {
+            "content": {
+              "hash": "ccf8fe52b901592afc4452167b2f5dcd",
+              "height": 192,
+              "placeholder": "placeholder",
+              "url": "https://cms-res.online.sberbank.ru/PROTECTION/insurancecatalog/new_ins_img_72_life_health_and_travel.png"
+            },
+            "type": "image_cell_view"
+          },
+          {
+            "content": {
+              "height": 192,
+              "placeholder": "placeholder",
+              "url": "https://cms-res.online.sberbank.ru/PROTECTION/insurancecatalog/new_ins_img_72_life_health_and_travel.png"
+            },
+            "type": "image_cell_view"
           }
         ],
         "type": "list_card"
