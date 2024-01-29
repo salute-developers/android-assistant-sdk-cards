@@ -1,0 +1,32 @@
+{
+  "paddings": {
+    "left": "8x",
+    "top": "16x",
+    "right": "4x",
+    "bottom": "16x"
+  },
+  "can_be_disabled": false,
+  "type": "gallery_card",
+  "items": [
+    {
+      "type": "media_gallery_item",
+      "image": {
+        "url": "https://example.ru/storage31/contents/8/e/010ea0147875e28b91ef1ff01cd042.jpg",
+        "hash": "string",
+        "url_light": "https://example.ru/storage31/contents/8/e/010ea0147875e28b91ef1ff01cd041.jpg",
+        "hash_light": "string",
+        "placeholder": "string",
+        "scale_mode": "scale_aspect_fill",
+        "height": 192,
+        "placeholder_color": "solid_black",
+        "actions": [],
+        "size": {}
+      },
+      "top_text": {},
+      "bottom_text": {},
+      "icon": {},
+      "paddings": {},
+      "actions": []
+    }
+  ]
+}
