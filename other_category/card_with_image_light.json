@@ -11,10 +11,10 @@
     {
       "type": "media_gallery_item",
       "image": {
-        "url": "https://example.ru/storage31/contents/8/e/010ea0147875e28b91ef1ff01cd042.jpg",
-        "hash": "string",
-        "url_light": "https://example.ru/storage31/contents/8/e/010ea0147875e28b91ef1ff01cd041.jpg",
-        "hash_light": "string",
+        "url": "https://cs5-2.4pda.to/6380085.png",
+        "hash": "794786554fe9c85f1651105dd2a6d8a1",
+        "url_light": "https://cdn.sberdevices.ru/VA/images/souzmultfilm/pechkin_s.png",
+        "hash_light": "f9547a00ec97163e981c00a3e088723c",
         "placeholder": "string",
         "scale_mode": "scale_aspect_fill",
         "height": 192,
