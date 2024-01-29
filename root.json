@@ -1306,6 +1306,13 @@
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/external.json"
             }
           ]
+        },
+        {
+          "карточка с альтернативной картинкой для светлой темы":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_image_light.json"
+            }
+          ]
         }
       ]
     },
