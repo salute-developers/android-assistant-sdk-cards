@@ -1423,7 +1423,7 @@
           "type": "simple_left_view",
           "icon": {
             "tint_color": "solid_brand",
-            "plasma_tint_color": "inverseTextParagraph",
+            "plasma_tint_color": "onDarkNewColor",
             "address": {
               "type": "local",
               "identificator": "clock"
@@ -1435,10 +1435,10 @@
           },
           "texts": {
             "title": {
-              "text": "inverseTextParagraph",
+              "text": "onDarkNewColor",
               "typeface": "footnote1",
               "text_color": "secondary",
-              "plasma_text_color": "inverseTextParagraph"
+              "plasma_text_color": "onDarkNewColor"
             }
           }
         },
@@ -1446,7 +1446,151 @@
           "type": "detail_right_view",
           "info_and_icon": {
             "icon": {
-              "plasma_tint_color": "inverseTextParagraph",
+              "plasma_tint_color": "onDarkNewColor",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 32
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
+        }
+      },
+
+      {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "onLightNewColor",
+            "address": {
+              "type": "local",
+              "identificator": "clock"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "onLightNewColor",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "onLightNewColor"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "onLightNewColor",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 32
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
+        }
+      },
+
+      {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "inverseNewColor",
+            "address": {
+              "type": "local",
+              "identificator": "clock"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "inverseNewColor",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "inverseNewColor"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "inverseNewColor",
+              "address": {
+                "type": "url",
+                "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
+                "hash": "cf842b30097d371bc71398181f3b97de",
+                "height": 32
+              },
+              "size": {
+                "width": "large",
+                "height": "large"
+              },
+              "margins": {
+                "left": "8x"
+              }
+            }
+          }
+        }
+      },
+
+      {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "newColor",
+            "address": {
+              "type": "local",
+              "identificator": "clock"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "newColor",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "newColor"
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "info_and_icon": {
+            "icon": {
+              "plasma_tint_color": "newColor",
               "address": {
                 "type": "url",
                 "url": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/matrix-metaverse-seeklogo.com.svg",
