@@ -1,0 +1,28 @@
+{
+    "items": [
+      {
+        "bubble": {
+          "text": "Доступны два режима отображения, статический и динамический. Для проверки динамического режима необходимо залогиниться на IFT как val903"
+        }
+      }
+    ],
+    "suggestions": {
+      "buttons": [
+        {
+          "title": "Статический PDF",
+          "action": 
+          {
+            "type": "deep_link",
+            "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/integration/pdf?title=test%26url=https://www.africau.edu/images/default/sample.pdf"
+          }
+        },
+        {
+          "title": "Динамический PDF",
+          "action": {
+            "type": "deep_link",
+            "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/integration/pdf?ufsUrl=%2Fperson-insurance%2Fmortgage-mb%2Frest%2Fv1.0%2FreceiptPrint%3FdocumentId%3D00p3_0000000000002584025%26documentType%3DUfsLifeMortgageInsurance%26format%3Dpdf"
+          }
+        }
+      ]
+    }
+  }
