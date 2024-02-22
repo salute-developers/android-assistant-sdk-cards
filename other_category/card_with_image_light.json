@@ -18,8 +18,18 @@
             "image": {
               "url": "https://cs5-2.4pda.to/6380085.png",
               "hash": "794786554fe9c85f1651105dd2a6d8a1",
-              "url_light": "https://cdn.sberdevices.ru/VA/images/souzmultfilm/pechkin_s.png",
-              "hash_light": "f9547a00ec97163e981c00a3e088723c",
+              "urls": [
+                {
+                  "color_scheme": "light",
+                  "url": "https://cdn.sberdevices.ru/VA/images/souzmultfilm/pechkin_s.png",
+                  "hash": "f9547a00ec97163e981c00a3e088723c"
+                },
+                {
+                  "color_scheme": "dark",
+                  "url": "https://cs5-2.4pda.to/6380085.png",
+                  "hash": "794786554fe9c85f1651105dd2a6d8a1"
+                }
+              ],
               "size": {
                 "width": "small",
                 "aspect_ratio": 1.42
