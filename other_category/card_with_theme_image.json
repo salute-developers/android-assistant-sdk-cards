@@ -1,0 +1,54 @@
+{
+  "app_info": {
+    "applicationId": "c692fd3e-b017-4e91-8129-de6bd88b941e",
+    "appversionId": "7bcc3868-94c9-4dc5-9e4d-ca96761a7e1d",
+    "frontendEndpoint": "None",
+    "frontendStateId": "179f5808-4d7a-4621-93fd-28c4699f06db_c692fd3e-b017-4e91-8129-de6bd88b941e_7bcc3868-94c9-4dc5-9e4d-ca96761a7e1d",
+    "frontendType": "DIALOG",
+    "projectId": "179f5808-4d7a-4621-93fd-28c4699f06db",
+    "systemName": "axon"
+  },
+  "items": [
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://wallpapersmug.com/thumb/477870/gradient-blue-yellow-hd-4k.jpg",
+              "urls": [
+                {
+                  "url": "https://cdn.sberdevices.ru/VA/images/souzmultfilm/pechkin_s.png",
+                  "hash": "f9547a00ec97163e981c00a3e088723c"
+                },
+                {
+                  "color_scheme": "dark",
+                  "url": "https://cs5-2.4pda.to/6380085.png",
+                  "hash": "794786554fe9c85f1651105dd2a6d8a1"
+                }
+              ],
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "top_text": {
+              "text": "Аватар",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            },
+            "actions": []
+          }
+        ]
+      }
+    }
+  ]
+}
