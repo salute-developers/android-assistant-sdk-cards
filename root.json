@@ -1308,9 +1308,16 @@
           ]
         },
         {
-          "карточка с альтернативной картинкой для светлой темы":[
+          "карточка с альтернативной картинкой для светлой и темной тем":[
             {
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_image_light.json"
+            }
+          ]
+        },
+         {
+          "карточка с альтернативной картинкой для дефолтной и светлой тем":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/other_category/card_with_theme_image.json"
             }
           ]
         }
