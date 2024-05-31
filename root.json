@@ -464,9 +464,16 @@
           ]
         },
         {
-          "Карточка с plasma кнопками внутри обычных кнопок": [
+          "Карточка с  кнопками внутри обычных кнопок": [
             {
-              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/plasma_buttons_in_buttons.json"
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/_buttons_in_buttons.json"
+            }
+          ]
+        },
+        {
+          "Карточка с plasma кнопками default и small size": [
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/plasma_buttons_in_buttons_size_small_default.json"
             }
           ]
         },
