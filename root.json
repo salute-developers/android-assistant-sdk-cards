@@ -466,7 +466,7 @@
         {
           "Карточка с  кнопками внутри обычных кнопок": [
             {
-              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/_buttons_in_buttons.json"
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/buttons_in_buttons.json"
             }
           ]
         },
