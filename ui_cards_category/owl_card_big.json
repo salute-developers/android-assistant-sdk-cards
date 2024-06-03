@@ -11,6 +11,7 @@
             "type": "image_cell_view",
             "content": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
+              "hash": "0717f91710f6172e97d0086077e878e8",
               "size": {
                 "width": "resizable",
                 "aspect_ratio": 1.33
