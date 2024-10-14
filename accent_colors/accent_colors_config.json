@@ -20,6 +20,9 @@
     "onLightTextGradientMain": {
       "mainColor": "#FF00FF",
       "secondaryColor": "#00FF00"
+    },
+    "surfaceAccentMain": {
+      "mainColor": "#5D8AA8"
     }
   },
   "lightPalette": {
@@ -43,6 +46,9 @@
     "onLightTextGradientMain": {
       "mainColor": "#0000FF",
       "secondaryColor": "#00FFFF"
+    },
+    "surfaceAccentMain": {
+      "mainColor": "#EFDECD"
     }
   }
 }
