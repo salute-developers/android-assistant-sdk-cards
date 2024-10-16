@@ -3,51 +3,51 @@
     "textAccentMain": {
       "mainColor": "#0000FF"
     },
-    "textGradientMain": {
+    "textGradient": {
       "mainColor": "#00FFFF",
       "secondaryColor": "#0000FF"
     },
-    "onDarkTextAccentMain": {
+    "onDarkTextAccent": {
       "mainColor": "#FF0000"
     },
-    "onDarkTextGradientMain": {
+    "onDarkTextGradient": {
       "mainColor": "#FFFF00",
       "secondaryColor": "#FF0000"
     },
-    "onLightTextAccentMain": {
+    "onLightTextAccent": {
       "mainColor": "#00FF00"
     },
-    "onLightTextGradientMain": {
+    "onLightTextGradient": {
       "mainColor": "#FF00FF",
       "secondaryColor": "#00FF00"
     },
-    "surfaceAccentMain": {
+    "surfaceAccent": {
       "mainColor": "#5D8AA8"
     }
   },
   "lightPalette": {
-    "textAccentMain": {
+    "textAccent": {
       "mainColor": "#FFFF00"
     },
-    "textGradientMain": {
+    "textGradient": {
       "mainColor": "#FF0000",
       "secondaryColor": "#FFFF00"
     },
-    "onDarkTextAccentMain": {
+    "onDarkTextAccent": {
       "mainColor": "#FF00FF"
     },
-    "onDarkTextGradientMain": {
+    "onDarkTextGradient": {
       "mainColor": "#00FF00",
       "secondaryColor": "#FF00FF"
     },
-    "onLightTextAccentMain": {
+    "onLightTextAccent": {
       "mainColor": "#00FFFF"
     },
-    "onLightTextGradientMain": {
+    "onLightTextGradient": {
       "mainColor": "#0000FF",
       "secondaryColor": "#00FFFF"
     },
-    "surfaceAccentMain": {
+    "surfaceAccent": {
       "mainColor": "#EFDECD"
     }
   }
