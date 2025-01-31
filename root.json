@@ -952,6 +952,13 @@
               "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/refs/heads/main/smart_apps_category/canvas_camera.json"
             }
           ]
+        },
+        {
+          "Запусти канвас камера disabled":[
+            {
+              "system":"https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/refs/heads/main/smart_apps_category/canvas_camera_disabled.json"
+            }
+          ]
         }
       ]
     },
