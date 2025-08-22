@@ -1156,46 +1156,22 @@
         {
           "Множественный ответ c саджестами": [
             {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_1.json"
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_with_suggest_1.json"
             },
             {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_2.json"
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_with_suggest_2.json"
             },
             {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_3.json"
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_with_suggest_3.json"
             },
             {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_4.json"
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_with_suggest_4.json"
             },
             {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_5.json"
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_with_suggest_5.json"
             },
             {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_6.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_7.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_8.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_9.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_10.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_11.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_12.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_13.json"
-            },
-            {
-              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/suggest_category/long_suggest.json"
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/multiple_with_suggest_6.json"
             }
           ]
         },
