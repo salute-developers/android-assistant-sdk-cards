@@ -1122,6 +1122,15 @@
               "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_category/owl_card.json"
             }
           ]
+        },{
+          "текст большая карточка": [
+            {
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/text_category/bubble_with_markdown.json"
+            },
+            {
+              "system": "https://raw.githubusercontent.com/salute-developers/android-assistant-sdk-cards/main/ui_cards_extended_list_card_category/keany1x1.json"
+            }
+          ]
         },
         {
           "сова текст": [
