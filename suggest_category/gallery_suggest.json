@@ -1,0 +1,247 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "http://smartbox.okko.tv/?titleid=movie:df4bbd21-0a82-4693-907c-8ad9bd034684"
+              }
+            ],
+            "image": {
+              "url": "https://festagent.com/system/tilda/tild3562-6362-4762-b036-653363663832__a01ccf32943f670ef632.jpg",
+              "hash": "63e3a2cfded9f9acbb4b691a04c9119a",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "2016, Драма/ЛГБТ",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 1,
+              "margins": {
+                "top": "2x"
+              }
+            },
+            "top_text": {
+              "text": "Лунный свет",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          },
+          {
+            "type": "media_gallery_item",
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "http://smartbox.okko.tv/?titleid=movie:df4bbd21-0a82-4693-907c-8ad9bd034684"
+              }
+            ],
+            "image": {
+              "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/93/Pulp_Fiction.jpg/211px-Pulp_Fiction.jpg",
+              "hash": "ff18fb25e73c077fbfc1ebb5a64004bc",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "18+ 1994 г, Криминальный фильм/Комедия",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 1,
+              "margins": {
+                "top": "2x"
+              }
+            },
+            "top_text": {
+              "text": "Криминальное чтиво. Режисерская версия.",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          },
+          {
+            "type": "media_gallery_item",
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": ""
+              }
+            ],
+            "image": {
+              "url": "https://s1.afisha.ru/mediastorage/15/12/70b14e2a3e3c4699bfaf05361215.jpg",
+              "hash": "499608bb7eded5fd4fa8fd1c028f2115",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "2014, Научная фантастика/Приключения",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 1,
+              "margins": {
+                "top": "2x"
+              }
+            },
+            "top_text": {
+              "text": "Интерстеллар",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          },
+          {
+            "type": "media_gallery_item",
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": ""
+              }
+            ],
+            "image": {
+              "url": "https://multsforkids.ru/data/uploads/multfilmy/smeshariki1.jpg",
+              "hash": "58eb0f60cb3f4038893c1b0a95b54589",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "top_text": {
+              "text": "Смешарики",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          },
+          {
+            "type": "media_gallery_item",
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": ""
+              }
+            ],
+            "image": {
+              "url": "https://thumbs.dfs.ivi.ru/storage31/contents/8/e/010ea0147875e28b91ef1ff01cd042.jpg",
+              "hash": "fd7fa1acc5e32cc3e790888b1de79b31",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1.42
+              }
+            },
+            "margins": {
+              "top": "4x",
+              "left": "6x",
+              "right": "6x",
+              "bottom": "5x"
+            },
+            "bottom_text": {
+              "text": "2019 г. ‧ Комедия/Драма",
+              "typeface": "caption",
+              "text_color": "secondary",
+              "max_lines": 1,
+              "margins": {
+                "top": "2x"
+              }
+            },
+            "top_text": {
+              "text": "Однажды в Голливду",
+              "typeface": "footnote1",
+              "text_color": "default",
+              "max_lines": 2
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "Отделения",
+        "log_id": "otdelenia",
+        "action": {
+          "text": "Покажи ближайщие отделения"
+        }
+      },
+      {
+        "title": "Банкоматы",
+        "log_id": "bankomaty",
+        "action": {
+          "text": "Покажи ближайщие банкоматы"
+        }
+      },
+      {
+        "title": "Кредит",
+        "log_id": "credit",
+        "action": {
+          "text": "Заявка на кредит"
+        }
+      },
+      {
+        "title": "Диплинк на банкоматы",
+        "action": {
+          "deep_link": "android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/main/map"
+        }
+      },
+      {
+        "title": "Ипотека",
+        "action": {
+          "text": "Заявка на ипотеку"
+        }
+      },
+      {
+        "title": "саджест 1",
+        "action": {
+          "text": "саджест 1"
+        }
+      },
+      {
+        "title": "саджест 2",
+        "action": {
+          "text": "саджест 2"
+        }
+      },
+      {
+        "title": "саджест 3",
+        "action": {
+          "text": "саджест 3"
+        }
+      }
+    ]
+  }
+}
